@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Orca
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Orca
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: 21300000, guid: 2725b8dff70a00e4d9efaba89c9a3be0, type: 3}

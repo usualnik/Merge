@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Lollypop
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Lollypop
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: 21300000, guid: c2d1c5f07b70c3d4aafc32d32a34931e, type: 3}

@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Tractor
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Tractor
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: 21300000, guid: cc65c3dd46206c249ac3ded6ca9d87f0, type: 3}

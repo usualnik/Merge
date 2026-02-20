@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: StatueOfLiberty
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: StatueOfLiberty
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: 21300000, guid: 3b8b7292978a73245827eb5569702b7f, type: 3}

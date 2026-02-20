@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Yeti
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Yeti
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: 21300000, guid: 58a9f0bd97214d84bbf50a151b19c083, type: 3}

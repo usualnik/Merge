@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Vulture
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Vulture
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: 21300000, guid: 2fbf00696a46d784ca77c35960cb9e87, type: 3}

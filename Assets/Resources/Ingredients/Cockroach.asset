@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Cockroach
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Cockroach
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: 21300000, guid: d22e26f50a272be4e931d2ad4c48c6d6, type: 3}

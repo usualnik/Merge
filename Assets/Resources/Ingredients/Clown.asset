@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Clown
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Clown
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: 21300000, guid: 9564a68dd6b4dc94b9d600046f8c275e, type: 3}

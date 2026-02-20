@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Pigeon
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Pigeon
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: 21300000, guid: 1ac6861fa9c302c4a9073090b3711cc4, type: 3}

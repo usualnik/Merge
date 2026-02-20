@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Snowman
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Snowman
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: 21300000, guid: 7118a3e9f88de3741bab63f6511070f3, type: 3}

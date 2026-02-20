@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Earth
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Earth
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: 21300000, guid: 04892fe272b26df43a3c247feafff1f7, type: 3}

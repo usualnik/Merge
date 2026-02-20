@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Snail
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Snail
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: 21300000, guid: 4cca0194ebede7a45845a06fb21d77d3, type: 3}

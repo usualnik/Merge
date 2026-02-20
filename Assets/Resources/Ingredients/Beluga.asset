@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Beluga
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Beluga
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: 21300000, guid: fa300a718c6a63443b07e82dd54d080f, type: 3}

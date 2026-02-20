@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: TV
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: TV
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: 21300000, guid: 8126811e9844bd249856e016b8af34d2, type: 3}

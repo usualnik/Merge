@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Spider
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Spider
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: 21300000, guid: f7258fe40f9c9134b9db5fa051e90e7e, type: 3}

@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Bison
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Bison
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: 21300000, guid: 96a9a6912efa2f64f8dc730556c6b0a3, type: 3}
