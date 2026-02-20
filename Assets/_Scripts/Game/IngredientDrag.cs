@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.EventSystems;
+using UnityEngine.UIElements;
 
 public class IngredientDrag : MonoBehaviour,
     IBeginDragHandler, IDragHandler, IEndDragHandler
@@ -19,7 +20,7 @@ public class IngredientDrag : MonoBehaviour,
 
     private void Awake()
     {
-        _boxCollider2D = GetComponent<BoxCollider2D>();
+        _boxCollider2D = GetComponent<BoxCollider2D>();       
     }
 
     private void Start()

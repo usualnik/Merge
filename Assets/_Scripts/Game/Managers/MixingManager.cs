@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
@@ -5,12 +6,10 @@ using UnityEngine;
 public class MixingManager : MonoBehaviour
 {
     public static MixingManager Instance { get; private set; }
+    public event Action<RecepieDataSO> OnRecepieFound;
 
     [SerializeField] private List<Ingredient> _ingredientsInMixingZone;
     [SerializeField] private List<RecepieDataSO> _availableRecipes;
-
-    [SerializeField] private GameObject _recepieFoundPanel;
-    [SerializeField] private TextMeshProUGUI _recepieFoundText;
 
     private void Awake()
     {
@@ -22,7 +21,6 @@ public class MixingManager : MonoBehaviour
         else
             Destroy(gameObject);
     }
-
     public void PutItemInMixingZone(Ingredient ingredient)
     {
         if (ingredient == null || ingredient.IngredientData == null)
@@ -47,16 +45,11 @@ public class MixingManager : MonoBehaviour
         foreach (RecepieDataSO recipe in _availableRecipes)
         {
             if (IsRecipeMatched(recipe))
-            {
-                _recepieFoundPanel.SetActive(true);
-                _recepieFoundText.text = recipe.RecepieName;
-                Debug.Log($"Рецепт найден: {recipe.RecepieName}");
+            {                
+                OnRecepieFound?.Invoke(recipe);
                 return; 
             }
         }
-
-        // Если рецепт не найден, можно скрыть панель
-        // _recepieFoundPanel.SetActive(false);
     }
 
     private bool IsRecipeMatched(RecepieDataSO recipe)
@@ -95,8 +88,9 @@ public class MixingManager : MonoBehaviour
                 item.DestroySelf();
         }
 
-        _recepieFoundPanel.SetActive(false);
         _ingredientsInMixingZone.Clear();
         Debug.Log("Зона смешивания очищена");
     }
+
+    public List<RecepieDataSO> AvailableRecepies => _availableRecipes;
 }

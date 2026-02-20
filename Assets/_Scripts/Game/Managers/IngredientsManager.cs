@@ -1,5 +1,4 @@
 using System.Collections.Generic;
-using TMPro;
 using UnityEngine;
 
 public class IngredientsManager : MonoBehaviour
@@ -30,6 +29,7 @@ public class IngredientsManager : MonoBehaviour
         if (_ingredients.Count != _ingredientDatas.Count)
         {
             Debug.LogError(" оличество ингредиентов не равно количеству исходников");
+            return;
         }
 
         for (int i = 0; i < _ingredients.Count; i++)
@@ -37,5 +37,24 @@ public class IngredientsManager : MonoBehaviour
             _ingredients[i].InitIngredient(_ingredientDatas[i]);
         }
     }
+
+
+    public void HighlightIngredients(List<IngredientDataSO> ingredientDatasToHighlight)
+    {
+        foreach (var ingredient in _ingredients)
+        {
+            if (ingredientDatasToHighlight.Contains(ingredient.IngredientData))
+            {               
+                ingredient.StartPulsing();
+                Debug.Log($"ѕодсвечиваем: {ingredient.IngredientData.IngredientName}");
+            }
+            else
+            {
+               
+                ingredient.StopPulsing();
+            }
+        }
+    }
+
 
 }

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e60ea3df95e9ee94d965a5f428df595e, type: 3}
+  m_Name: Fluriflura
+  m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
+  _recepieId: 12
+  _recepieName: Fluriflura
+  _recepieSprite: {fileID: 0}
+  _ingredients:
+  - {fileID: 11400000, guid: a19612dafdf5bea44bc4cc6465b9b6ec, type: 2}
+  - {fileID: 11400000, guid: d0ae3ed8722ab134a8c2fbac9aeacd25, type: 2}
+  _rarity: 0

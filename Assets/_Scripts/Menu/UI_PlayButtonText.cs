@@ -30,6 +30,6 @@ public class UI_PlayButtonText : MonoBehaviour
 
     private void ChangePlayButtonText()
     {
-        _loadGameButtonText.text = /*YG2.envir.language == "ru"*/ true ? _playButtonTextRU : _playButtonTextEN;
+        //_loadGameButtonText.text = /*YG2.envir.language == "ru"*/ true ? _playButtonTextRU : _playButtonTextEN;
     }
 }

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e60ea3df95e9ee94d965a5f428df595e, type: 3}
+  m_Name: Pandaccini Bananini
+  m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
+  _recepieName: Pandaccini Bananini
+  _recepieSprite: {fileID: 0}
+  _ingredients:
+  - {fileID: 11400000, guid: e30c2d216cb2da248aa6bd6f07294694, type: 2}
+  - {fileID: 11400000, guid: 31e637cdf04c3474ba00dec6890ae75e, type: 2}
+  _rarity: 1

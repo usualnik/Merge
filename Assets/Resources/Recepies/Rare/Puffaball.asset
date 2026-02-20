@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e60ea3df95e9ee94d965a5f428df595e, type: 3}
+  m_Name: Puffaball
+  m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
+  _recepieName: Puffaball
+  _recepieSprite: {fileID: 0}
+  _ingredients:
+  - {fileID: 11400000, guid: 3b5c88b8ef1b879418015dfdbe60d158, type: 2}
+  - {fileID: 11400000, guid: 339c93ed439a6e741bf08a5cfd5bdf38, type: 2}
+  _rarity: 1

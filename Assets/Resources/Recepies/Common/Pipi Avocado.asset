@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e60ea3df95e9ee94d965a5f428df595e, type: 3}
+  m_Name: Pipi Avocado
+  m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
+  _recepieName: Bandito Bobritto
+  _recepieSprite: {fileID: 0}
+  _ingredients:
+  - {fileID: 11400000, guid: f98ad9e5bd137104ca61ba32a9e5f56b, type: 2}
+  - {fileID: 11400000, guid: ec0abd3b1632f4843adacc4bf7c4fc9d, type: 2}

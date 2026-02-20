@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e60ea3df95e9ee94d965a5f428df595e, type: 3}
+  m_Name: Quesadilla Crocodila
+  m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
+  _recepieName: Quesadilla Crocodila
+  _recepieSprite: {fileID: 0}
+  _ingredients:
+  - {fileID: 11400000, guid: 353fbe4bd7c49a84ea24ac2f340d14be, type: 2}
+  - {fileID: 11400000, guid: 1f06dd352cf572e41932c493de2df28c, type: 2}
+  _rarity: 3
