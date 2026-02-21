@@ -12,8 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e60ea3df95e9ee94d965a5f428df595e, type: 3}
   m_Name: Ti Ti Ti Sahur
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
+  _recepieId: 39
   _recepieName: Ti Ti Ti Sahur
   _recepieSprite: {fileID: 0}
   _ingredients:
   - {fileID: 11400000, guid: 0b36c6612f1975344bc216f7f9ab5d5a, type: 2}
   - {fileID: 11400000, guid: e1cb2a89b5d09a7409f5a82085be34c9, type: 2}
+  _rarity: 0

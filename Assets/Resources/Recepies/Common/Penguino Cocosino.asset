@@ -12,8 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e60ea3df95e9ee94d965a5f428df595e, type: 3}
   m_Name: Penguino Cocosino
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
+  _recepieId: 27
   _recepieName: Penguino Cocosino
   _recepieSprite: {fileID: 0}
   _ingredients:
   - {fileID: 11400000, guid: ead3aacf722ad654a82fe836c98ceeaa, type: 2}
   - {fileID: 11400000, guid: ed7efbd846789db48b00e559995ee249, type: 2}
+  _rarity: 0

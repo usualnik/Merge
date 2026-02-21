@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e60ea3df95e9ee94d965a5f428df595e, type: 3}
   m_Name: Gattatino Neonino
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
+  _recepieId: 61
   _recepieName: Gattatino Neonino
   _recepieSprite: {fileID: 0}
   _ingredients:

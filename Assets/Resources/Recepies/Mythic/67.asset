@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e60ea3df95e9ee94d965a5f428df595e, type: 3}
   m_Name: 67
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
-  _recepieId: 0
+  _recepieId: 91
   _recepieName: 67
   _recepieSprite: {fileID: 10901, guid: 0000000000000000f000000000000000, type: 0}
   _ingredients:

@@ -12,8 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e60ea3df95e9ee94d965a5f428df595e, type: 3}
   m_Name: Noobini Pizzanini
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
+  _recepieId: 24
   _recepieName: Noobini Pizzanini
   _recepieSprite: {fileID: 0}
   _ingredients:
   - {fileID: 11400000, guid: d2883137b8e06a845a6541421a403616, type: 2}
   - {fileID: 11400000, guid: 65f1924b2162379468aa7d4412089efb, type: 2}
+  _rarity: 0

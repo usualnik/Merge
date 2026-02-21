@@ -12,8 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e60ea3df95e9ee94d965a5f428df595e, type: 3}
   m_Name: Avocadini Antilopini
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
+  _recepieId: 4
   _recepieName: Avocadini Antilopini
   _recepieSprite: {fileID: 0}
   _ingredients:
   - {fileID: 11400000, guid: 0b0e9f2894e094b458e2b7500c2911b9, type: 2}
   - {fileID: 11400000, guid: ec0abd3b1632f4843adacc4bf7c4fc9d, type: 2}
+  _rarity: 0

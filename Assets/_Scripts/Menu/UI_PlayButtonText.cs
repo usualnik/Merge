@@ -8,8 +8,8 @@ public class UI_PlayButtonText : MonoBehaviour
     private Button _loadGameButton;
     private TextMeshProUGUI _loadGameButtonText; 
 
-    private string _playButtonTextRU = "«¿√–”« ¿...";
-    private string _playButtonTextEN = "LOADING...";
+    //private string _playButtonTextRU = "«¿√–”« ¿...";
+    //private string _playButtonTextEN = "LOADING...";
 
 
     private void Awake()

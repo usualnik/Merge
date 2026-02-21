@@ -12,8 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e60ea3df95e9ee94d965a5f428df595e, type: 3}
   m_Name: Pipi Kiwi
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
+  _recepieId: 32
   _recepieName: Pipi Kiwi
   _recepieSprite: {fileID: 0}
   _ingredients:
   - {fileID: 11400000, guid: 736e80d58be9ef040b9c99c5701803b0, type: 2}
   - {fileID: 11400000, guid: 18a7a0a282fa95043a3ae7977551dac7, type: 2}
+  _rarity: 0

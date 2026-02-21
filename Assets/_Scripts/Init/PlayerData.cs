@@ -1,18 +1,18 @@
 using System.Collections.Generic;
+using System.Linq;
 using UnityEngine;
-//using YG;
+using YG;
 
 [System.Serializable]
 public class Data
 {
-    public int Money = 0;
-    public int Clicks = 0;
-    public int ItemsAvailableInShop = 3;
-    public int CurrentItemIndex = 0;
-    public List<int> itemsBought = new List<int>();
+    public int Gold = 0;
+    public int Score = 0;
+    public int Hints = 0;
+    public List<int> OpenedBrainrotsIndexes = new List<int>();
+
     public bool IsFirstTimePlaying = true;
-    public int EndingsOpened = 0;
-    public List<int> AlreadyEndedWithItemIndex = new List<int>();
+
     public bool IsTelegramRewardRecived = false;
     public bool ShouldShowAd = true;
  }
@@ -41,52 +41,47 @@ public class PlayerData : MonoBehaviour
 
     private void Start()
     {
-        //if (YG2.saves.YandexServerData != null && YG2.saves.YandexServerData != data)
-        //{
-        //    LoadPlayerData();
-        //}
-        //else
-        //{
-        //    InitFirstTimePlayingData();
-        //}
+        if (YG2.saves.YandexServerData != null && YG2.saves.YandexServerData != data)
+        {
+            LoadPlayerData();
+        }
+        else
+        {
+            InitFirstTimePlayingData();
+        }
     }
 
     private void InitFirstTimePlayingData()
     {
         //build new data
         data = new Data();
-        data.itemsBought = new List<int>();
+        data.OpenedBrainrotsIndexes = new List<int>();
     }
 
     private void LoadPlayerData()
     {
-        //this.data = YG2.saves.YandexServerData;              
+        this.data = YG2.saves.YandexServerData;
     }
     private void SavePlayerDataToYandex()
     {
-        //YG2.saves.YandexServerData = this.data;
-        //YG2.SaveProgress();
+        YG2.saves.YandexServerData = this.data;
+        YG2.SaveProgress();
     }
 
     public void HardResetPlayerData()
     {
-        data.Money = 0;
-        data.Clicks = 0;
-        data.ItemsAvailableInShop = 3;
-        data.CurrentItemIndex = 0;
-        data.itemsBought.Clear();
+        data.Gold = 0;
+        data.Score = 0;      
+        data.Hints = 0;
         data.IsFirstTimePlaying = true;        
     }
 
     #region Get
-    public int GetCurrentMoneyAmount() => data.Money;
-    public int GetCurrentClicksAmount() => data.Clicks;
-    public int GetItemsAvailableInShop() => data.ItemsAvailableInShop;
+    public int GetCurrentGoldAmount() => data.Gold;
+    public int GetCurrentHintsAmount() => data.Hints;
+    public int GetCurrentScoreAmount() => data.Score;
     public bool GetIsFirstTimePlaying() => data.IsFirstTimePlaying;
-    public List<int> GetItemsBought() => data.itemsBought;
-    public int GetCurrentItemIndex() => data.CurrentItemIndex;
-    public int GetEndingsOpened() => data.EndingsOpened;
-    public List<int> GetAlreadyEndedWithItemIndex() => data.AlreadyEndedWithItemIndex;
+    public List<int> GetOpenedBrainrotsIndexes() => data.OpenedBrainrotsIndexes;
     public bool GetTelegramRewardRecived() => data.IsTelegramRewardRecived;
     public bool GetShouldShowAd() => data.ShouldShowAd;
 
@@ -95,61 +90,49 @@ public class PlayerData : MonoBehaviour
 
     #region Set
 
-    public void SetCurrentMoney(int value)
+    public void SetCurrentGold(int value)
     {
-        var temp = data.Money;
-        data.Money = value;
+        var temp = data.Gold;
+        data.Gold = value;
 
-        if (data.Money < 0)
+        if (data.Gold < 0)
         {
-            data.Money = temp;
-        }
-        else
-        {
-            SavePlayerDataToYandex();
-        }
-
-    }
-
-    public void SetEndingsOpened(int value)
-    {
-       data.EndingsOpened = value;
-
-        if (data.EndingsOpened > 10)
-        {
-            data.EndingsOpened = 10;
-        }
-
-        SavePlayerDataToYandex();
-    }
-
-    public void AddItemIndexToAlreadeEndedWithItemIndex(int itemIndex)
-    {
-        data.AlreadyEndedWithItemIndex.Add(itemIndex);
-        SavePlayerDataToYandex();
-    }
-    public void SetCurrentClicks(int value)
-    {
-        var temp = data.Clicks;
-        data.Clicks = value;
-
-        if (data.Clicks < 0)
-        {
-            data.Clicks = temp;
+            data.Gold = temp;
         }
         else
         {
             SavePlayerDataToYandex();
         }
     }
-    public void SetItemsAvailableInShop(int itemsAvailable)
-    {
-        var temp = data.ItemsAvailableInShop;
-        data.ItemsAvailableInShop = itemsAvailable;
 
-        if (data.ItemsAvailableInShop < 0)
+    public void ChangeOpenedBrainrotIndexes(HashSet<int> _openedIndexes)
+    {
+        data.OpenedBrainrotsIndexes = _openedIndexes.ToList();
+        SavePlayerDataToYandex();
+    }
+    public void SetCurrentScore(int value)
+    {
+        var temp = data.Score;
+        data.Score = value;
+
+        if (data.Score < 0)
         {
-            data.ItemsAvailableInShop = temp;
+            data.Score = temp;
+        }
+        else
+        {
+            SavePlayerDataToYandex();
+        }
+    }
+
+    public void SetCurrentHints(int value)
+    {
+        var temp = data.Hints;
+        data.Hints = value;
+
+        if (data.Hints < 0)
+        {
+            data.Hints = temp;
         }
         else
         {
@@ -160,19 +143,8 @@ public class PlayerData : MonoBehaviour
     {
         data.IsFirstTimePlaying = fistTimePlaying;
         SavePlayerDataToYandex();
-    }
-    public void SetNewCurrentItemIndex(int index)
-    {
-        data.CurrentItemIndex = index;
-        SavePlayerDataToYandex();
-    }
-
-    public void AddNewItemToBoughtList(int index)
-    {
-        data.itemsBought.Add(index);
-        SavePlayerDataToYandex();
-    }
-
+    } 
+  
     public void SetTelegramRewardRecived(bool recived)
     {
         data.IsTelegramRewardRecived = recived;

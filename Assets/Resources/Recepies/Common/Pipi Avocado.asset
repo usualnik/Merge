@@ -12,8 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e60ea3df95e9ee94d965a5f428df595e, type: 3}
   m_Name: Pipi Avocado
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
+  _recepieId: 30
   _recepieName: Bandito Bobritto
   _recepieSprite: {fileID: 0}
   _ingredients:
   - {fileID: 11400000, guid: f98ad9e5bd137104ca61ba32a9e5f56b, type: 2}
   - {fileID: 11400000, guid: ec0abd3b1632f4843adacc4bf7c4fc9d, type: 2}
+  _rarity: 0

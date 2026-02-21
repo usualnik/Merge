@@ -12,8 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e60ea3df95e9ee94d965a5f428df595e, type: 3}
   m_Name: Trippi Troppi
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
+  _recepieId: 42
   _recepieName: Trippi Troppi
   _recepieSprite: {fileID: 0}
   _ingredients:
   - {fileID: 11400000, guid: 7c33ffcb93ada6c488602386642d8a7d, type: 2}
   - {fileID: 11400000, guid: c41e1024ed08eec4bb9267ba4d8b8aa4, type: 2}
+  _rarity: 0

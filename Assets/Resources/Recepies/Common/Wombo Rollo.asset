@@ -12,8 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e60ea3df95e9ee94d965a5f428df595e, type: 3}
   m_Name: Wombo Rollo
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
+  _recepieId: 44
   _recepieName: Wombo Rollo
   _recepieSprite: {fileID: 0}
   _ingredients:
   - {fileID: 11400000, guid: a677bc8d5d59b9d48a9f322025127fa4, type: 2}
   - {fileID: 11400000, guid: af0d8732f229ac54b9cf4ed642b374cb, type: 2}
+  _rarity: 0

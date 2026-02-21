@@ -13,19 +13,16 @@ public class Ingredient : MonoBehaviour, IPointerClickHandler, IDragHandler
     [SerializeField] private float _pulseDuration = 0.3f;
 
     private IngredientVisual ingredientImage;
-    private TextMeshProUGUI _ingredientName;
     private Sequence _pulseSequence; 
 
     private void Awake()
     {
-        _ingredientName = GetComponentInChildren<TextMeshProUGUI>();
         ingredientImage = GetComponentInChildren<IngredientVisual>(); 
     }
 
     public void InitIngredient(IngredientDataSO data)
     {
         _ingredientData = data;
-        _ingredientName.text = _ingredientData.IngredientName;
         ingredientImage.Visual.sprite = data.IngredientSprite;
     }
 
@@ -61,7 +58,6 @@ public class Ingredient : MonoBehaviour, IPointerClickHandler, IDragHandler
 
     private void OnDestroy()
     {
-        // Очищаем твины при уничтожении объекта
         StopPulsing();
         transform.DOKill();
     }

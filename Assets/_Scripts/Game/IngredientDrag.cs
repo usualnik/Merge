@@ -3,7 +3,7 @@ using UnityEngine.EventSystems;
 using UnityEngine.UIElements;
 
 public class IngredientDrag : MonoBehaviour,
-    IBeginDragHandler, IDragHandler, IEndDragHandler
+    IBeginDragHandler, IDragHandler, IEndDragHandler, IPointerClickHandler
 {
     public bool IsInMixingZone => _isAtMixingZone;
 
@@ -13,6 +13,8 @@ public class IngredientDrag : MonoBehaviour,
     protected bool _isDragging;
     protected Canvas _canvas;
     private GameObject _dragObject;
+    private CenterTransform _centerTransform;
+
 
     private BoxCollider2D _boxCollider2D;
 
@@ -20,7 +22,7 @@ public class IngredientDrag : MonoBehaviour,
 
     private void Awake()
     {
-        _boxCollider2D = GetComponent<BoxCollider2D>();       
+        _boxCollider2D = GetComponent<BoxCollider2D>();
     }
 
     private void Start()
@@ -31,6 +33,8 @@ public class IngredientDrag : MonoBehaviour,
         {
             Debug.LogError("Canvas not found in parent hierarchy!", this);
         }
+
+        _centerTransform = FindAnyObjectByType<CenterTransform>();
     }
 
     public void OnBeginDrag(PointerEventData eventData)
@@ -84,9 +88,43 @@ public class IngredientDrag : MonoBehaviour,
 
     }
 
+    public void OnPointerClick(PointerEventData eventData)
+    {        
+        if (!_isOriginal) return;
+        if (_isDragging) return; 
+
+        SpawnAtCenter();
+    }
+
+    private void SpawnAtCenter()
+    {
+        if (_centerTransform == null)
+        {
+            Debug.LogError("CenterTransform not found!", this);
+            return;
+        }
+
+        _dragObject = Instantiate(gameObject,
+            _centerTransform.transform.position,
+            Quaternion.identity,
+            _canvas.transform);
+
+        if (_dragObject.TryGetComponent(out IngredientDrag ingredientDrag))
+        {
+            ingredientDrag.SetIsOriginal(false);
+        }
+
+        PlaceItemInMixingSpace();
+
+        _dragObject = null;
+    }
+
     private void PlaceItemInMixingSpace()
     {
-        MixingManager.Instance.PutItemInMixingZone(_dragObject.GetComponent<Ingredient>());
+        if (_dragObject != null)
+        {
+            MixingManager.Instance.PutItemInMixingZone(_dragObject.GetComponent<Ingredient>());
+        }
     }
 
 
@@ -110,6 +148,4 @@ public class IngredientDrag : MonoBehaviour,
             _isAtMixingZone = false;
         }
     }
-
-
 }

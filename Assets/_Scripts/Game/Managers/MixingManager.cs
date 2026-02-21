@@ -21,6 +21,7 @@ public class MixingManager : MonoBehaviour
         else
             Destroy(gameObject);
     }
+
     public void PutItemInMixingZone(Ingredient ingredient)
     {
         if (ingredient == null || ingredient.IngredientData == null)
@@ -45,16 +46,16 @@ public class MixingManager : MonoBehaviour
         foreach (RecepieDataSO recipe in _availableRecipes)
         {
             if (IsRecipeMatched(recipe))
-            {                
+            {
                 OnRecepieFound?.Invoke(recipe);
-                return; 
+                return;
             }
         }
     }
 
     private bool IsRecipeMatched(RecepieDataSO recipe)
     {
-     
+
         List<IngredientDataSO> requiredCopy = new List<IngredientDataSO>(recipe.RequiredIngredients);
 
         List<Ingredient> currentCopy = new List<Ingredient>(_ingredientsInMixingZone);

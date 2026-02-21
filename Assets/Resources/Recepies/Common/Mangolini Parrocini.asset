@@ -12,8 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e60ea3df95e9ee94d965a5f428df595e, type: 3}
   m_Name: Mangolini Parrocini
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
+  _recepieId: 22
   _recepieName: Mangolini Parrocini
   _recepieSprite: {fileID: 0}
   _ingredients:
   - {fileID: 11400000, guid: d4310b0d5973f0b46b8f6e2a0fc6440a, type: 2}
   - {fileID: 11400000, guid: 3efab2b90689a134b92b37f7ef650806, type: 2}
+  _rarity: 0

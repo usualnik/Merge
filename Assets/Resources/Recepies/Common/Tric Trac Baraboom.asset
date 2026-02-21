@@ -12,8 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e60ea3df95e9ee94d965a5f428df595e, type: 3}
   m_Name: Tric Trac Baraboom
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
+  _recepieId: 41
   _recepieName: Tric Trac Baraboom
   _recepieSprite: {fileID: 0}
   _ingredients:
   - {fileID: 11400000, guid: 6f2d286d686fed94d8af612b3169d110, type: 2}
   - {fileID: 11400000, guid: 147b0861fac94334bae700af770a5df1, type: 2}
+  _rarity: 0
