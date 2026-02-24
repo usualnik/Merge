@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Corn
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Corn
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: -7944502702452990849, guid: cfabef6f105681a49b9ef4175db41051, type: 3}

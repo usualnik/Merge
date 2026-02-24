@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Pencil
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Pencil
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: 5806247343882902020, guid: cd445c6952a791544a8abd5a4f3ad825, type: 3}

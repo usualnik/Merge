@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Grape
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Grape
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: -6403348867786874424, guid: 07b7bdb2bb359d34c985391d41b3cba4, type: 3}

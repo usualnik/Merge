@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 158
   _recepieName: Cavallo Virtuoso
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: fd6449a7b19258f4db71636550829cbc, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: c8186170ea00654439d6af8023462ff2, type: 2}
   - {fileID: 11400000, guid: 1649e369f36f9294fbee9fdf197a0fdb, type: 2}

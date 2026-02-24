@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 25
   _recepieName: Noobini Santanini
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: 7d534706c519395428ba11a823f37997, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: 6abde63085b5e6b4e8239726d829215f, type: 2}
   - {fileID: 11400000, guid: 6fe0531c087818748ab75b5bea05ec60, type: 2}

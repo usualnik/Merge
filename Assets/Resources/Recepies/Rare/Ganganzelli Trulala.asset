@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 166
   _recepieName: Ganganzelli Trulala
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: f9e5b827fc2612c4b9826a7c6763fb8f, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: 1e403657238f63c42923db8ef966a745, type: 2}
   - {fileID: 11400000, guid: 2d067fb91145728418ac3b11761acefc, type: 2}

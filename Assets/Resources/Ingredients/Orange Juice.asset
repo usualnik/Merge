@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Orange Juice
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Orange Juice
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: 953307614844476625, guid: a4b0c00c566d9c24fbbb881773934b18, type: 3}

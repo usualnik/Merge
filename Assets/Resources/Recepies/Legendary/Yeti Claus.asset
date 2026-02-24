@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 90
   _recepieName: Yeti Claus
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: b7dabba996ba459479f83af4a3021404, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: f63887d1b8925e7469df0b4577a44a45, type: 2}
   - {fileID: 11400000, guid: 4b45f64cfd4ed304f969d93a155d69e1, type: 2}

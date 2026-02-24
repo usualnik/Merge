@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 87
   _recepieName: Trippi Troppi Troppa Trippa
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: 61886d1358bce5c498127bad57d59cda, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: 6f2d286d686fed94d8af612b3169d110, type: 2}
   - {fileID: 11400000, guid: 6042e6fdc2d74ff4b82968330027651b, type: 2}

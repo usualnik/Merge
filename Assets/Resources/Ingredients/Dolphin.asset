@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Dolphin
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Dolphin
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: 1624513127720242999, guid: 867caecff46af01408272487b15e68a2, type: 3}

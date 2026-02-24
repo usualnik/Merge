@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 162
   _recepieName: Chocco Bunny
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: 2e6857817c4628a47a4588e0ca7d7963, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: 82556425a8e9b454a8125cedd9e6861d, type: 2}
   - {fileID: 11400000, guid: 1c5179f3a60be614f9f58d553d49e692, type: 2}

@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 150
   _recepieName: Bombardiro Crocodilo
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: fd2010a41d0107a4ca4eb09bb4518658, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: 353fbe4bd7c49a84ea24ac2f340d14be, type: 2}
   - {fileID: 11400000, guid: 7d6b0ff0a1b6a664bbe9ed8fd0fb1e4a, type: 2}

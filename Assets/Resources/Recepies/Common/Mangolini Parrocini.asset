@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 22
   _recepieName: Mangolini Parrocini
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: bed78ff43639c16489b5ef98005b99c2, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: d4310b0d5973f0b46b8f6e2a0fc6440a, type: 2}
   - {fileID: 11400000, guid: 3efab2b90689a134b92b37f7ef650806, type: 2}

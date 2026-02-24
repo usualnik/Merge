@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 43
   _recepieName: Trulimero Trulicina
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: 6b7b064d849fcb549b44ba04e2147eb2, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: 7c33ffcb93ada6c488602386642d8a7d, type: 2}
   - {fileID: 11400000, guid: 6042e6fdc2d74ff4b82968330027651b, type: 2}

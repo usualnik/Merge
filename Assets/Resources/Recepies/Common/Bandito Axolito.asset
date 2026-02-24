@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 8
   _recepieName: Bandito Axolito
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: 52ed3400ad87d064c926b751c671479f, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: 2717743a5873be8499c40d07746b7166, type: 2}
   - {fileID: 11400000, guid: 0033f0e058ca50645b486817c1b51e1f, type: 2}

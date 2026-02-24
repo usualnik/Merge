@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 59
   _recepieName: Crabbo Limonetta
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: e0d21eea753b3f44ab49f1fecf714cb1, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: ae5787b66a911734481d3bd999b38ea7, type: 2}
   - {fileID: 11400000, guid: 6573c93f05e13cb4ca3bdf3cc6a322ea, type: 2}

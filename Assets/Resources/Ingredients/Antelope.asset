@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Antelope
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Antelope
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: -4840518792704704574, guid: 5ee5a08df412b5e40acc927c76c342cc, type: 3}

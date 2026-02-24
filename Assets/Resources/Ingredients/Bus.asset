@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Bus
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Bus
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: 523567674819225992, guid: 87f6d5429dc2e7549b33eef6a234f7e5, type: 3}

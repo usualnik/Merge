@@ -115,7 +115,8 @@ public class YandexAdManager : MonoBehaviour
     {
         YG2.RewardedAdvShow("", () =>
         {
-            GameManager.Instance.ReceiveHint();
+            GameManager.Instance.ReceiveHint(1);
+            
         });
     }
 }

@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 183
   _recepieName: Rhino Toasterino
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: fcd4039eef5ae74489930575f3589adf, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: 4fe40fe32d9378447be154b2e8784a94, type: 2}
   - {fileID: 11400000, guid: 81bd3018324032c479a987a83fb6146b, type: 2}

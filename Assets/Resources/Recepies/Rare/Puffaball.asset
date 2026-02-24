@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 179
   _recepieName: Puffaball
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: c3790bba402a30443804e762003790b1, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: 3b5c88b8ef1b879418015dfdbe60d158, type: 2}
   - {fileID: 11400000, guid: 339c93ed439a6e741bf08a5cfd5bdf38, type: 2}

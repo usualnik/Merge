@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 65
   _recepieName: Ginger Globo
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: fb4219a01ba808e40a8f6e4b502b931a, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: 3ff9cc81421ac9c4fb0612790357a519, type: 2}
   - {fileID: 11400000, guid: 4b45f64cfd4ed304f969d93a155d69e1, type: 2}

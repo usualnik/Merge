@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Clay Pot
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: ClayPot
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: -8875873584286142142, guid: b656cec44a3e85441b689f14ecd875e3, type: 3}

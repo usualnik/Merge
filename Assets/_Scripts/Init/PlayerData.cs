@@ -8,7 +8,7 @@ public class Data
 {
     public int Gold = 0;
     public int Score = 0;
-    public int Hints = 0;
+    public int Hints = 3;
     public List<int> OpenedBrainrotsIndexes = new List<int>();
 
     public bool IsFirstTimePlaying = true;
@@ -72,7 +72,7 @@ public class PlayerData : MonoBehaviour
     {
         data.Gold = 0;
         data.Score = 0;      
-        data.Hints = 0;
+        data.Hints = 3;
         data.IsFirstTimePlaying = true;        
     }
 

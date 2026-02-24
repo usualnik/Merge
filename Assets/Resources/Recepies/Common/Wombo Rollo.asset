@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 44
   _recepieName: Wombo Rollo
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: 9f160b60b02f4ba49b466016b47d30b1, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: a677bc8d5d59b9d48a9f322025127fa4, type: 2}
   - {fileID: 11400000, guid: af0d8732f229ac54b9cf4ed642b374cb, type: 2}

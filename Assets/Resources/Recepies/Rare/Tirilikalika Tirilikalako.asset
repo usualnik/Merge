@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 191
   _recepieName: Tirilikalika Tirilikalako
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: 6eb9e36d7d5f6224c82af2deb2c60a1b, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: bee3d589b2e1f0b4481427ee9391630d, type: 2}
   - {fileID: 11400000, guid: 6417403c17a4afb41b05df95d534d7e1, type: 2}

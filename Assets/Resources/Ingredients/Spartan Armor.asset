@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Spartan Armor
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: SpartanArmor
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: -2400832136027283696, guid: 6680c1a0d4861f144ac716dced0033aa, type: 3}

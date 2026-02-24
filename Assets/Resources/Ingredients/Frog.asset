@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Frog
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Frog
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: 2820143329777312509, guid: d5c86d4b8f8413543a20bbcfddade628, type: 3}

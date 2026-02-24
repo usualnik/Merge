@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 106
   _recepieName: Dragon Gingerini
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: 6497486f8086961448ca0d209ed2ca54, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: f856fb29b2abac640a63fe6c6b46fe9b, type: 2}
   - {fileID: 11400000, guid: 3ff9cc81421ac9c4fb0612790357a519, type: 2}

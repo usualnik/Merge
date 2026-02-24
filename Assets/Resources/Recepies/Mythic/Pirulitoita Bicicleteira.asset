@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 128
   _recepieName: Pirulitoita Bicicleteira
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: dfcfe9dafdf27524b83065b607d81ab2, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: 67fe8b8f6a2134742a89405702939227, type: 2}
   - {fileID: 11400000, guid: 20e2346a15292654795b777677d06611, type: 2}

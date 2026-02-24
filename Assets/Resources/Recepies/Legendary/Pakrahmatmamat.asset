@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 74
   _recepieName: Pakrahmatmamat
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: 3284f7c879e762746b4d58d1c5b0b45d, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: d2883137b8e06a845a6541421a403616, type: 2}
   - {fileID: 11400000, guid: 03049cafe0d78f644a999edee980aa71, type: 2}

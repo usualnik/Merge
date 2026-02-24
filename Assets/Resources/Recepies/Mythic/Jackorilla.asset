@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 117
   _recepieName: Jackorilla
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: 14e14c837f651cb4990e3aece5477780, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: 6f2d286d686fed94d8af612b3169d110, type: 2}
   - {fileID: 11400000, guid: 66180c40e58fdb64fb6105fe564c3e0c, type: 2}

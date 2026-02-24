@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 37
   _recepieName: Talpa Di Fero
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: 56e641f877aa7134f9aba73c5f54feb6, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: 68933cfac088969408d8fcc637140982, type: 2}
   - {fileID: 11400000, guid: ed7efbd846789db48b00e559995ee249, type: 2}

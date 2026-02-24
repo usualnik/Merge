@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 118
   _recepieName: Karker Sahur
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: 5c3f87c9851357e4abe9a5363dd2f031, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: 0cd494be300ab7645869477ddd589ab3, type: 2}
   - {fileID: 11400000, guid: e372d35f01cbd1a4d85af634a28e29d4, type: 2}

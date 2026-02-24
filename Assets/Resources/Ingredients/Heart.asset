@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Heart
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Heart
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: 4606908045521496030, guid: 464131b5b4c8d0345bafc7db790c3595, type: 3}

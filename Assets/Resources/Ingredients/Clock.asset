@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Clock
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Clock
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: 4214149858688995037, guid: deef101bf9acd304581d35976f8a6d43, type: 3}

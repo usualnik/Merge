@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: Anpali Babel
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 46
-  _recepieName: Alessio
-  _recepieSprite: {fileID: 0}
+  _recepieName: Anpali Babel
+  _recepieSprite: {fileID: 21300000, guid: f1c376a711bc7fa4aa78d79149b99e67, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: d2883137b8e06a845a6541421a403616, type: 2}
   - {fileID: 11400000, guid: ab1ad20054cd6b04495f1def2aa035a3, type: 2}

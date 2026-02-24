@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 130
   _recepieName: Pumpkini Spyderini
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: 58d5457996a09a84dbc84d756c634d2a, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: 46d7020b6f02f5045a3d89d4d9369983, type: 2}
   - {fileID: 11400000, guid: 66180c40e58fdb64fb6105fe564c3e0c, type: 2}

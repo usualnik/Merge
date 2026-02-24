@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 47
   _recepieName: Antonio
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: a0eb2f560a18257408d4937f29f63dba, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: d2883137b8e06a845a6541421a403616, type: 2}
   - {fileID: 11400000, guid: aa6e16aea83d71648a8828e6168744ce, type: 2}

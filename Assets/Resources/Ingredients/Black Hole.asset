@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Black Hole
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Black Hole
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: -2868276099763834430, guid: cf130d17a49f1e941bebf25c5bc2bb1f, type: 3}

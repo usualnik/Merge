@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 192
   _recepieName: Tob Tobi Tobi
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: b7bfcf26c69816c4ba3e03f5ef7362a1, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: abebe680c2f6b6e4c84058951c19ae0d, type: 2}
   - {fileID: 11400000, guid: f6eb7615b1db8934484eec84513232a4, type: 2}

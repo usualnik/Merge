@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Toilet
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Toilet
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: -2699615200178430186, guid: dccbe32ce607fb9488ace5df721128aa, type: 3}

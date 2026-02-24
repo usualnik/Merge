@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 136
   _recepieName: Swag Soda
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: 2c077539c637ed348ae1d3b44ef8fc5c, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: d2883137b8e06a845a6541421a403616, type: 2}
   - {fileID: 11400000, guid: e73c125ea5cf9c54c97c060242dacbb2, type: 2}

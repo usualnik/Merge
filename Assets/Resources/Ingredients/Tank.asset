@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Tank
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Tank
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: 4326872430171513394, guid: c5c84b3b42da6ff419fba661f770aa91, type: 3}

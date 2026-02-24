@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 169
   _recepieName: Gorillo Watermelondrillo
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: 1cbb7ae2b6afb824aa5744174af8d10d, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: 6f2d286d686fed94d8af612b3169d110, type: 2}
   - {fileID: 11400000, guid: ae932d32ccbae204cb1fcdc1590261f5, type: 2}

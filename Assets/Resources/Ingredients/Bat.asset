@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Bat
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Bat
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: 8647823593821616703, guid: 780a87e39ae81aa47ac36bac060c686f, type: 3}

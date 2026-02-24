@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Kiwi
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Kiwi
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: 4138223980208024357, guid: 7b578935755272c49a13580689dafaba, type: 3}

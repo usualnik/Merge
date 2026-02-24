@@ -7,6 +7,8 @@ public class IngredientDrag : MonoBehaviour,
 {
     public bool IsInMixingZone => _isAtMixingZone;
 
+    private Transform _mixingZoneTransform;
+
     private bool _isAtMixingZone = false;
     private bool _isOriginal = true;
 
@@ -35,6 +37,8 @@ public class IngredientDrag : MonoBehaviour,
         }
 
         _centerTransform = FindAnyObjectByType<CenterTransform>();
+        _mixingZoneTransform = FindAnyObjectByType<MixingPanel>().gameObject.transform;
+
     }
 
     public void OnBeginDrag(PointerEventData eventData)
@@ -48,7 +52,7 @@ public class IngredientDrag : MonoBehaviour,
         if (_isOriginal)
         {
             _dragObject = Instantiate(gameObject, gameObject.transform.position,
-                gameObject.transform.rotation, _canvas.transform);
+                gameObject.transform.rotation, _mixingZoneTransform);
 
             if (_dragObject.TryGetComponent(out IngredientDrag ingredientDrag))
             {
@@ -89,9 +93,9 @@ public class IngredientDrag : MonoBehaviour,
     }
 
     public void OnPointerClick(PointerEventData eventData)
-    {        
+    {
         if (!_isOriginal) return;
-        if (_isDragging) return; 
+        if (_isDragging) return;
 
         SpawnAtCenter();
     }
@@ -107,7 +111,7 @@ public class IngredientDrag : MonoBehaviour,
         _dragObject = Instantiate(gameObject,
             _centerTransform.transform.position,
             Quaternion.identity,
-            _canvas.transform);
+            _mixingZoneTransform);
 
         if (_dragObject.TryGetComponent(out IngredientDrag ingredientDrag))
         {

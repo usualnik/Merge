@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Mole
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Mole
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: 8769549347541133393, guid: 4873d4765653ac645919009183204b01, type: 3}

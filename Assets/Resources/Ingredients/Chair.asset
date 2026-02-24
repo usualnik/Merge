@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Chair
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Chair
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: 5843985864524226762, guid: bca1ee75313efd34b9c234b192ff19af, type: 3}

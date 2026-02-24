@@ -4,9 +4,11 @@ using UnityEngine;
 public class IngredientsManager : MonoBehaviour
 {
     public static IngredientsManager Instance { get; private set; }
+    public List<IngredientDataSO> HighlightedIngredients { get; private set; }
 
     [SerializeField] private List<IngredientDataSO> _ingredientDatas;
     [SerializeField] private List<Ingredient> _ingredients;
+
 
     private void Awake()
     {
@@ -17,6 +19,8 @@ public class IngredientsManager : MonoBehaviour
         }
         else
             Destroy(gameObject);
+
+        HighlightedIngredients = new List<IngredientDataSO>();
     }
 
     private void Start()
@@ -41,6 +45,9 @@ public class IngredientsManager : MonoBehaviour
 
     public void HighlightIngredients(List<IngredientDataSO> ingredientDatasToHighlight)
     {
+        if(HighlightedIngredients != null)
+            HighlightedIngredients.AddRange(ingredientDatasToHighlight);
+
         foreach (var ingredient in _ingredients)
         {
             if (ingredientDatasToHighlight.Contains(ingredient.IngredientData))

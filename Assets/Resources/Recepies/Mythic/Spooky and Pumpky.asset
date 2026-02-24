@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 135
   _recepieName: Spooky and Pumpky
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: b58eb3e2dc30e6949b6f6922a6f163ac, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: b44a7b6d427ef8341ab4abfa9adb3065, type: 2}
   - {fileID: 11400000, guid: 66180c40e58fdb64fb6105fe564c3e0c, type: 2}

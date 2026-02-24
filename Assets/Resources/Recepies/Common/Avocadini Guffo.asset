@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 5
   _recepieName: Avocadini Guffo
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: 3a3ef520cc4b3134baa9f40a9486eb36, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: a677f3e2f18af494399e2f8a72bfc0da, type: 2}
   - {fileID: 11400000, guid: ec0abd3b1632f4843adacc4bf7c4fc9d, type: 2}

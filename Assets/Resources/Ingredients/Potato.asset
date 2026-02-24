@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Potato
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Potato
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: -5661783315169486296, guid: fa7c8a5558ff30240900d656b161fc6b, type: 3}

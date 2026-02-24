@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Hot Chocolate
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: HotChocolate
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: -6709044539391235229, guid: a48ade1b5b3465c4b9f2b9bb2b44f153, type: 3}

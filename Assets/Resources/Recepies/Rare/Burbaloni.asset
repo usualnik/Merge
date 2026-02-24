@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 153
   _recepieName: Burbaloni
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: 67f45df45dc8bcf4aadb5c48c0b78e59, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: f98ad9e5bd137104ca61ba32a9e5f56b, type: 2}
   - {fileID: 11400000, guid: ed7efbd846789db48b00e559995ee249, type: 2}

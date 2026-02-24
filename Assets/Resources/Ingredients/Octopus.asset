@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Octopus
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Octopus
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: 3041970383809997380, guid: 753228695926b5e4eaa81bd61ec75d15, type: 3}

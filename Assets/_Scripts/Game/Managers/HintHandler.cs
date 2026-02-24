@@ -5,9 +5,7 @@ using UnityEngine.UI;
 public class HintHandler : MonoBehaviour
 {
     public static HintHandler Instance { get; private set; }
-    public event Action OnHintGiven;
-
-    
+    public event Action OnHintGiven;    
 
     private void Awake()
     {
@@ -26,12 +24,16 @@ public class HintHandler : MonoBehaviour
 
     public void GiveHint()
     {
+        if (GameManager.Instance.Hints <= 0) return;
+
+
         var allRecepies = MixingManager.Instance.AvailableRecepies;
         RecepieDataSO notYetFoundedRecepie = null;
 
         foreach (var receipt in allRecepies)
         {
-            if(!GameManager.Instance.RecepieFoundIndexes.Contains(receipt.RecepieID))
+            if (!GameManager.Instance.RecepieFoundIndexes.Contains(receipt.RecepieID) && 
+                !IngredientsManager.Instance.HighlightedIngredients.Contains(receipt.RequiredIngredients[0]))
             {
                 notYetFoundedRecepie = receipt;
                 break;
@@ -45,6 +47,8 @@ public class HintHandler : MonoBehaviour
         }
 
         IngredientsManager.Instance.HighlightIngredients(notYetFoundedRecepie.RequiredIngredients);
+
+        GameManager.Instance.GiveHint();
 
         OnHintGiven?.Invoke();
     }

@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 146
   _recepieName: Avocadorilla
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: a29c76b1cbfb9ca46b56f5142f73e99d, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: ea065eaa5ac7ad747a036c36ab334056, type: 2}
   - {fileID: 11400000, guid: ec0abd3b1632f4843adacc4bf7c4fc9d, type: 2}

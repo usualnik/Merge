@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 125
   _recepieName: Money Money Puggy
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: 4df5971c5c7bf714b80fc76c7140f218, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: d588489d9be56484f8333e62e1b20f34, type: 2}
   - {fileID: 11400000, guid: 684628274eff7ca4987bd9f9530cf805, type: 2}

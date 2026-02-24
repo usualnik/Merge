@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 26
   _recepieName: Penguin Tree
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: 37a58ef2c6a25524780f6fffacb18850, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: ead3aacf722ad654a82fe836c98ceeaa, type: 2}
   - {fileID: 11400000, guid: 8a607f7423152504caab6265650c2d07, type: 2}

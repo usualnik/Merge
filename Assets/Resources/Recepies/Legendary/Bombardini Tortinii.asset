@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 50
   _recepieName: Bombardini Tortinii
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: bc65960f99b1fa94fa395da1142c2586, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: cfdf33b743381a54a9a770c50ef91dc5, type: 2}
   - {fileID: 11400000, guid: 7d6b0ff0a1b6a664bbe9ed8fd0fb1e4a, type: 2}

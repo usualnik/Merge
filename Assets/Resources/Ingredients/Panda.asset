@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Panda
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Panda
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: 9056969288295072004, guid: 3f719105e63d48843a3230d2c0cfd9cc, type: 3}

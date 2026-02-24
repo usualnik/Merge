@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Mango
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Mango
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: -3968840770022985357, guid: ab350b4c531d09a47a4bd243b840a260, type: 3}

@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 137
   _recepieName: Tacorita Bicicleta
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: e9484d03feeae254b98c70c641708210, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: 20e2346a15292654795b777677d06611, type: 2}
   - {fileID: 11400000, guid: cfdf33b743381a54a9a770c50ef91dc5, type: 2}

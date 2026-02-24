@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Honey
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Honey
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: -3403754614272994563, guid: e1323248f946d664d92a05c9f32331d9, type: 3}

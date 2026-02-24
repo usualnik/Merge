@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Rainbow
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Rainbow
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: -5743474462039176297, guid: bad2118e414b17b4caec332a43b7c405, type: 3}

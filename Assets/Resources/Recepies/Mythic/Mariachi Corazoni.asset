@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 124
   _recepieName: Mariachi Corazoni
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: 586876c77219426498adf49fc757e756, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: 3f0b50c22c1c3fc4fa4f4844da89d9e1, type: 2}
   - {fileID: 11400000, guid: cdfaa7e0946433149947388c7748226f, type: 2}

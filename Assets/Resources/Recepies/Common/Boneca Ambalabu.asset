@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 10
   _recepieName: Boneca Ambalabu
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: 81893ee5fb5b7ff4fb5a5a2e204def7c, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: 6fff74237befe6c478e5f0455494d4ae, type: 2}
   - {fileID: 11400000, guid: 7df217b9dd56ba848a5e3da35366ef75, type: 2}

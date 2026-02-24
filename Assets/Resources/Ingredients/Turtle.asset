@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Turtle
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Turtle
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: -3745163931830953359, guid: ed66f7daabc5ff64ebef21af8de8379a, type: 3}

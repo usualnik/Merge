@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 110
   _recepieName: Garama and Madundung
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: 0f6c75d7aaaf92d499f0e5b2955c0d8e, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: 1934bee4e5b6c744197eba6d40176f12, type: 2}
   - {fileID: 11400000, guid: 5865f58f5a72efa47ac64166e3c58399, type: 2}

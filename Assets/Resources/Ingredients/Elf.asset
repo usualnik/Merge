@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Elf
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Elf
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: -3717686652356265191, guid: 00b50a1e4d28bec4c8601bec6f10d9d3, type: 3}

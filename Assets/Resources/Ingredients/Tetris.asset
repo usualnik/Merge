@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Tetris
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Tetris
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: -6663144903140875126, guid: 8fc03c47f297f1849b1d3b5881f3dd9c, type: 3}

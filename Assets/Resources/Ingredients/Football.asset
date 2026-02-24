@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Football
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Football
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: 5041425768431687598, guid: 9f602f710d349db4581a63d96c3191ce, type: 3}

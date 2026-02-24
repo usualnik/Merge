@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 23
   _recepieName: Mummio Rappitto
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: ed01654a2a29b504381fb46f0e6dccfb, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: 82556425a8e9b454a8125cedd9e6861d, type: 2}
   - {fileID: 11400000, guid: a84d54a2b686f7f46877d0aa41059be4, type: 2}

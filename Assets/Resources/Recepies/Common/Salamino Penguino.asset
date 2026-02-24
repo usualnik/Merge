@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 34
   _recepieName: Salamino Penguino
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: a2cbcd28bde380b4abe0921eed8aa6af, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: ead3aacf722ad654a82fe836c98ceeaa, type: 2}
   - {fileID: 11400000, guid: 7b1ae9d85cbbc9043949304acf0313e9, type: 2}

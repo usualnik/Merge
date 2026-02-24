@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 35
   _recepieName: Svinina Bombardino
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: d1233db15904b264aa34e4d054c0efc0, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: 6abde63085b5e6b4e8239726d829215f, type: 2}
   - {fileID: 11400000, guid: 6fe0531c087818748ab75b5bea05ec60, type: 2}

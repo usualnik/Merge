@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 170
   _recepieName: Jacko Spaventosa
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: 88c04754c9edaf6478f8dcf8c619f1dc, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: d2883137b8e06a845a6541421a403616, type: 2}
   - {fileID: 11400000, guid: 66180c40e58fdb64fb6105fe564c3e0c, type: 2}

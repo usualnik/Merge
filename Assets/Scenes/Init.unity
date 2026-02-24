@@ -164,14 +164,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerData
   data:
-    Money: 0
-    Clicks: 0
-    ItemsAvailableInShop: 3
-    CurrentItemIndex: 0
-    itemsBought: 
+    Gold: 0
+    Score: 0
+    Hints: 3
+    OpenedBrainrotsIndexes: 
     IsFirstTimePlaying: 1
-    EndingsOpened: 0
-    AlreadyEndedWithItemIndex: 
     IsTelegramRewardRecived: 0
     ShouldShowAd: 1
 --- !u!1 &1743575900

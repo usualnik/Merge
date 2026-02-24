@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 154
   _recepieName: Cachorrito Melonito
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: 450086e743702974fa40c89fc3dd3d53, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: d588489d9be56484f8333e62e1b20f34, type: 2}
   - {fileID: 11400000, guid: ae932d32ccbae204cb1fcdc1590261f5, type: 2}

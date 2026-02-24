@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Dinosaur
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Dinosaur
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: -3187875618433125209, guid: 1ed542aba02110c46ae5c1fa5ef20409, type: 3}

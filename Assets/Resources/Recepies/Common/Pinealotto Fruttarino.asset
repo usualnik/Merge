@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 29
   _recepieName: Pinealotto Fruttarino
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: cc8b945db2a7a924ab3b3a2a257c8590, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: 52d6f3366012ae5439428e874c46c92f, type: 2}
   - {fileID: 11400000, guid: 0033f0e058ca50645b486817c1b51e1f, type: 2}

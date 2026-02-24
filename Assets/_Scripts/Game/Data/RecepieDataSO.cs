@@ -8,6 +8,7 @@ public class RecepieDataSO : ScriptableObject
     public string RecepieName => _recepieName;
     public List<IngredientDataSO> RequiredIngredients => _ingredients;
     public Sprite RecepieSprite => _recepieSprite;
+    public Rarity RecepieRarity => _rarity;
 
     [SerializeField] private int _recepieId;
     [SerializeField] private string _recepieName;
@@ -15,7 +16,7 @@ public class RecepieDataSO : ScriptableObject
     [SerializeField] private List<IngredientDataSO> _ingredients;
     [SerializeField] private Rarity _rarity;
 
-    enum Rarity
+    public enum Rarity
     {
         Common,
         Rare,

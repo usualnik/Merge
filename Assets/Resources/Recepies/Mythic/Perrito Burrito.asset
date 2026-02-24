@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 127
   _recepieName: Perrito Burrito
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: f62c12abe387cea439c2723cd8b04928, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: d588489d9be56484f8333e62e1b20f34, type: 2}
   - {fileID: 11400000, guid: a8e1019c3cd58bd41857f6f50009eaf1, type: 2}

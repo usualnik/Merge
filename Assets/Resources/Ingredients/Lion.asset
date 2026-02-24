@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Lion
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Lion
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: -1224384326437599908, guid: 02258680ba331f1468eb377835b16c35, type: 3}

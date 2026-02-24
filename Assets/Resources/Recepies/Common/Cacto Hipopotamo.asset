@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 13
   _recepieName: Cacto Hipopotamo
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: cca2e9581688a534987b42fb6c899552, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: 96e5dc555481ed34f9f851ba7910893e, type: 2}
   - {fileID: 11400000, guid: f6eb7615b1db8934484eec84513232a4, type: 2}

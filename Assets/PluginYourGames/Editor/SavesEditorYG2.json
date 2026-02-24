@@ -1,0 +1,22 @@
+{
+    "intExample": 5,
+    "strExample": "Hello!",
+    "boolExample": [
+        false,
+        false,
+        false,
+        false
+    ],
+    "idSave": 7,
+    "YandexServerData": {
+        "Gold": 32,
+        "Score": 0,
+        "Hints": 6,
+        "OpenedBrainrotsIndexes": [
+            0
+        ],
+        "IsFirstTimePlaying": true,
+        "IsTelegramRewardRecived": true,
+        "ShouldShowAd": false
+    }
+}

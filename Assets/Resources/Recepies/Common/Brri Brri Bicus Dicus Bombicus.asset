@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 12
   _recepieName: Brri Brri Bicus Dicus Bombicus
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: bd60a75872c65a44ab979b7f31a6823b, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: 3c50443dc69feb640a7da730abbb3619, type: 2}
   - {fileID: 11400000, guid: c5394bc21569588479a4e4356588ff9c, type: 2}

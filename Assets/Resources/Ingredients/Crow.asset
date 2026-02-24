@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Crow
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Crow
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: -4285408029963660783, guid: c4ce983c25f49e349a2e3db3486444d4, type: 3}

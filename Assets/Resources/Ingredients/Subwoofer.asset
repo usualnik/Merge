@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Subwoofer
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Subwoofer
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: -4852011846694935006, guid: 710f130a48eff0142b225903516933e1, type: 3}

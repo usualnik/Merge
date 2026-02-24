@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 62
   _recepieName: Gattatino Nyanino
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: c844f8dc2d999b74aa48a477b5ec41e5, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: 7c33ffcb93ada6c488602386642d8a7d, type: 2}
   - {fileID: 11400000, guid: cc43cddaef469ba4aaa9b46fd6d62f95, type: 2}

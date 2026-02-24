@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 107
   _recepieName: Dul Dul Dul
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: a6b0633758ebef0418cfb5925f123cad, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: d2883137b8e06a845a6541421a403616, type: 2}
   - {fileID: 11400000, guid: 6f2d286d686fed94d8af612b3169d110, type: 2}

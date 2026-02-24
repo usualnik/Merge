@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 119
   _recepieName: Ketchuru And Musturu
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: 0087545cced4142408ff69ea0733a2b4, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: 1a7b094703a25434c833234832332353, type: 2}
   - {fileID: 11400000, guid: 27d9d08a6a4e5034896f2b7b365f6bf3, type: 2}

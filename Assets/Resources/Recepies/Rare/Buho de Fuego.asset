@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 152
   _recepieName: Buho de Fuego
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: 0710e64db3cd44948914fba02d70878f, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: a677f3e2f18af494399e2f8a72bfc0da, type: 2}
   - {fileID: 11400000, guid: 66180c40e58fdb64fb6105fe564c3e0c, type: 2}

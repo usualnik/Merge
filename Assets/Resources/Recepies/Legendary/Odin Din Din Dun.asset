@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 72
   _recepieName: Odin Din Din Dun
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: 95376aa4bef33f84989b9028d3bb97cc, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: d2883137b8e06a845a6541421a403616, type: 2}
   - {fileID: 11400000, guid: 2d067fb91145728418ac3b11761acefc, type: 2}

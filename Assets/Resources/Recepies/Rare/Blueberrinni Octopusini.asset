@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 149
   _recepieName: Blueberrinni Octopusini
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: fda92061597c3ef4bacc180305eaf1c4, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: ea5941ff45e64eb4194934c4c2789dd8, type: 2}
   - {fileID: 11400000, guid: 45afcebd7e7fdf44a8b996ad88176e96, type: 2}

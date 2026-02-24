@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 39
   _recepieName: Ti Ti Ti Sahur
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: 0108c97b4d8368e4bb8067f24ecc7d08, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: 0b36c6612f1975344bc216f7f9ab5d5a, type: 2}
   - {fileID: 11400000, guid: e1cb2a89b5d09a7409f5a82085be34c9, type: 2}

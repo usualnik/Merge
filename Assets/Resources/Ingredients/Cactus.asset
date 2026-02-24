@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Cactus
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Cactus
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: 7873444928579934181, guid: 7faf48d0458872e41bf345d92d5a0a68, type: 3}

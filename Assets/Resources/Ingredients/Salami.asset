@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Salami
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Salami
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: -8011176641531108675, guid: 5b4e9c0621bdd304691092fef8a1cb1f, type: 3}

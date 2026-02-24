@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 188
   _recepieName: Strawberrelli Flamingelli
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: 357fb4b628508d14e9bca8b7333612e4, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: 7d6ef317b09095f429870826da794e96, type: 2}
   - {fileID: 11400000, guid: ed7f403ead1cfcd4db964c6da2bdeab0, type: 2}

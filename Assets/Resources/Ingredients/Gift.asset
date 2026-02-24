@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Gift
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Gift
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: 1533909394052034002, guid: aa3f0e0080cd2f24589a994940620dfd, type: 3}

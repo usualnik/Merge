@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Jupiter
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Jupiter
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: -4840658929073548887, guid: 971c4719ef10b8d4b8cffeacbb10d537, type: 3}

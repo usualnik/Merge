@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: Gattito Tacoto
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 63
-  _recepieName: Alessio
-  _recepieSprite: {fileID: 0}
+  _recepieName: Gattito Tacoto
+  _recepieSprite: {fileID: 21300000, guid: 6e43e460f1d983a48ab0c55930cdcf13, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: 7c33ffcb93ada6c488602386642d8a7d, type: 2}
   - {fileID: 11400000, guid: cfdf33b743381a54a9a770c50ef91dc5, type: 2}

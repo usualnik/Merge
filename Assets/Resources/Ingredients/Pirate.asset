@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Pirate
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Pirate
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: -5383109096222793229, guid: 2e47bfa3c9d1b3b418e878e8585ed9a4, type: 3}

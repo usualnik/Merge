@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Coconut
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Coconut
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: 3415579226381933368, guid: 04cd8c6eabf62fe4f9993d4e19a02a9d, type: 3}

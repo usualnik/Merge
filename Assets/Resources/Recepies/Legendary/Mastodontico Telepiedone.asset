@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 69
   _recepieName: Mastodontico Telepiedone
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: e92ced2b96d91a54a94433f97078ddab, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: ea4ad8e35bff1874ab20d4709325a1e5, type: 2}
   - {fileID: 11400000, guid: 5cba8fc4820259a4cbc3267539c433f4, type: 2}

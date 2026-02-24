@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Hippo
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Hippo
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: -4376745654473388752, guid: f659fe711c525104490e206967eb6495, type: 3}

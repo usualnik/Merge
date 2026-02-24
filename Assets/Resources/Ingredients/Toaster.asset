@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Toaster
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Toaster
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: -521296188256610830, guid: 0317cd6a7622834498c23427426ec132, type: 3}

@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Parrot
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Parrot
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: 7933297803874927483, guid: 70d258350f403ef449a0fec137268b82, type: 3}

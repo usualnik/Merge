@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 113
   _recepieName: Graipuss Medussi
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: 3f32721e194be384ca6a678b7b4829f7, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: 38b89dc0465de2542a209eab07184a77, type: 2}
   - {fileID: 11400000, guid: 09691bcfeb81d854d8344bb8862e2f61, type: 2}

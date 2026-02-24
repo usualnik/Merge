@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 20
   _recepieName: "Liril\xEC Laril\xE0"
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: 6f9859c763c8de7419f9154c6458445a, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: f94334e8b5eba4c4d9594ca88931154f, type: 2}
   - {fileID: 11400000, guid: f6eb7615b1db8934484eec84513232a4, type: 2}

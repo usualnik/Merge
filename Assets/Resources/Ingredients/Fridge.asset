@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Fridge
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Fridge
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: -787681131013791189, guid: aeb826a66f1d8f14bad94de49a0001ba, type: 3}

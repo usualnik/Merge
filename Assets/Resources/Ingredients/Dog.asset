@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Dog
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Dog
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: -3994744024693093290, guid: bd0b685e48544df4788419a733e70bc6, type: 3}

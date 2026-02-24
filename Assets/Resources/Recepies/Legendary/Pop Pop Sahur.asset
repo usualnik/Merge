@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 76
   _recepieName: Pop Pop Sahur
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: 3295b45031c43014abc0552e18a12ed5, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: d2883137b8e06a845a6541421a403616, type: 2}
   - {fileID: 11400000, guid: d613ae1e89c844f42b70bd79c9f8c283, type: 2}

@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 175
   _recepieName: Orangutini Ananassini
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: a545b81abc772be47b53a610ec348590, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: 6f2d286d686fed94d8af612b3169d110, type: 2}
   - {fileID: 11400000, guid: 52d6f3366012ae5439428e874c46c92f, type: 2}

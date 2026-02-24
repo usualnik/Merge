@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: Cacasito Satalito
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 53
-  _recepieName: Alessio
-  _recepieSprite: {fileID: 0}
+  _recepieName: Cacasito Satalito
+  _recepieSprite: {fileID: 21300000, guid: c45198fd952fe8147b0e0e5bfc777cd0, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: ce34c872c68079d4fb459b5ccdc11482, type: 2}
   - {fileID: 11400000, guid: f59f6c63a7cede34b8e4a5714cb6e101, type: 2}

@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 159
   _recepieName: Centrucci Nuclucci
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: dd4ebc72170cd0549be82a26b7f6856a, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: 0d6c510167716f645949d14c1f18da53, type: 2}
   - {fileID: 11400000, guid: 147b0861fac94334bae700af770a5df1, type: 2}

@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 80
   _recepieName: Statutino Libertino
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: f1aff175036f68f4789bcee538decd80, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: 6abde63085b5e6b4e8239726d829215f, type: 2}
   - {fileID: 11400000, guid: cfdf33b743381a54a9a770c50ef91dc5, type: 2}

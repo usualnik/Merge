@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 190
   _recepieName: Tigrilini Watermelini
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: d1adb830e0cf3f54b9214dc05bbdb953, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: 3d65a5f217c14c54d9e66a6f13ef4b48, type: 2}
   - {fileID: 11400000, guid: ae932d32ccbae204cb1fcdc1590261f5, type: 2}

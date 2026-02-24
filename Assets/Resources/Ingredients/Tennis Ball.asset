@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Tennis Ball
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: TennisBall
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: -5964259320975205061, guid: 94d823ee8b5de9242bfccc30cb70525d, type: 3}

@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 163
   _recepieName: Cocosini Mama
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: 88f88d0b4d2e12c4fad10b78083eb9a9, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: 1fa94eae5ac5b0849a0d102af7ac37aa, type: 2}
   - {fileID: 11400000, guid: ed7efbd846789db48b00e559995ee249, type: 2}

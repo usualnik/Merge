@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Pufferfish
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Pufferfish
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: -371740909335319690, guid: 36da1bd9f23c98b4a8b2369ecc07ece8, type: 3}

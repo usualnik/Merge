@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Ballerina
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Ballerina
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: 3315988946164661939, guid: cd00f8704da62fa45be65562c1959f1c, type: 3}

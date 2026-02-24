@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 102
   _recepieName: Chipso and Queso
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: c8ff80d92af4e374197bc6a1153dde1a, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: 320dd6e97a9082546b2fbadb6ea1cdc7, type: 2}
   - {fileID: 11400000, guid: ddefce754d467b0429ff7444cf1261ec, type: 2}

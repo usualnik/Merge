@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 18
   _recepieName: Bandito Bobritto
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: 8f6195826b0dae544b3dea120c6837be, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: 6fff74237befe6c478e5f0455494d4ae, type: 2}
   - {fileID: 11400000, guid: 0c3a0f821958d894ab7100b71be5eaa2, type: 2}

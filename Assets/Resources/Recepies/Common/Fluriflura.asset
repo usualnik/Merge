@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 16
   _recepieName: Fluriflura
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: 13666cf1eb617984f838945317043adf, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: a19612dafdf5bea44bc4cc6465b9b6ec, type: 2}
   - {fileID: 11400000, guid: d0ae3ed8722ab134a8c2fbac9aeacd25, type: 2}

@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Penguin
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Penguin
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: -3289575033469672952, guid: 35ab61d52d11f284c827837b5068fffb, type: 3}

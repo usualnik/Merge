@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 186
   _recepieName: Spioniro Golubiro
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: b5a4b0e033eaecf48884a1ad8d415d6a, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: b6261635dce31f0429844b1227ac6080, type: 2}
   - {fileID: 11400000, guid: 50409ba6fba9b5a45ac77c3cb351b3ea, type: 2}

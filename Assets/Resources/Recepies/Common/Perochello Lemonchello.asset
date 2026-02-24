@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 28
   _recepieName: Perochello Lemonchello
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: f84ea6ac67ff91b4492a555b705a36b2, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: d4310b0d5973f0b46b8f6e2a0fc6440a, type: 2}
   - {fileID: 11400000, guid: 6573c93f05e13cb4ca3bdf3cc6a322ea, type: 2}

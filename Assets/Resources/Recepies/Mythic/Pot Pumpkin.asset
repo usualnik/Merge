@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 129
   _recepieName: Pot Pumpkin
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: 7dd537d7c2ee0304b830cfe20575495f, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: 66180c40e58fdb64fb6105fe564c3e0c, type: 2}
   - {fileID: 11400000, guid: 3f0b50c22c1c3fc4fa4f4844da89d9e1, type: 2}

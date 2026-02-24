@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: 7
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: 7
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: 7028616704906629411, guid: fe60c38a3bdd7a54383c2b7100ed51ec, type: 3}

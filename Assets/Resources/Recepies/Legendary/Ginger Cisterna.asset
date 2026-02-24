@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 64
   _recepieName: Ginger Cisterna
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: 58ab888e9f51d9e4dabb31dac3c117df, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: 3ff9cc81421ac9c4fb0612790357a519, type: 2}
   - {fileID: 11400000, guid: 13da3c366be47bb44b45bda4a2ade404, type: 2}

@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Whale
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Whale
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: -7896656059444677529, guid: d4335d4f4514dbe41855a75d83b4f160, type: 3}

@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 172
   _recepieName: Lerulerulerule
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: 0f3a80b4728fa1c428a71b83c266aeef, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: ead3aacf722ad654a82fe836c98ceeaa, type: 2}
   - {fileID: 11400000, guid: f6eb7615b1db8934484eec84513232a4, type: 2}

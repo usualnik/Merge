@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 67
   _recepieName: Granchiello Spiritell
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: ade63cc7cf0773e4e9e6e6d7a0e0a04d, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: a75257a09a41b874ea20865239d97ed4, type: 2}
   - {fileID: 11400000, guid: 221979aacc744464dbd44b0abc1f5041, type: 2}

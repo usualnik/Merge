@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Phone
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Phone
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: 3894415531740123212, guid: 1050623e2e3443d4898e0d6d2a7fb6b6, type: 3}

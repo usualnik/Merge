@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 142
   _recepieName: Torrtuginni Dragonfrutini
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: 4860abbeeb4da1a408d4c936b4d6058c, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: 19aab35159c20df4f8135cb499e2349d, type: 2}
   - {fileID: 11400000, guid: 75c00b3a7863c13438ed4e6fe61347f9, type: 2}

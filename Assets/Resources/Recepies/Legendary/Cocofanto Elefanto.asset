@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 57
   _recepieName: Cocofanto Elefanto
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: eb4f701f178aa394aacaabeb131bd27d, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: f94334e8b5eba4c4d9594ca88931154f, type: 2}
   - {fileID: 11400000, guid: ed7efbd846789db48b00e559995ee249, type: 2}

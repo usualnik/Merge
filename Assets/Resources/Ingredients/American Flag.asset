@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: American Flag
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: American Flag
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: -4541341696223691004, guid: 2ab63eff0f6639c4ab9180687dfc8c91, type: 3}

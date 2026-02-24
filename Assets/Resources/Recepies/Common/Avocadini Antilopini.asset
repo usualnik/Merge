@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 4
   _recepieName: Avocadini Antilopini
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: b9243a29677e50d40a8a0b53ecaf11bf, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: 0b0e9f2894e094b458e2b7500c2911b9, type: 2}
   - {fileID: 11400000, guid: ec0abd3b1632f4843adacc4bf7c4fc9d, type: 2}

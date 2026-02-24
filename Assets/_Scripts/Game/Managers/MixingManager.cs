@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class MixingManager : MonoBehaviour
 {
@@ -10,6 +11,7 @@ public class MixingManager : MonoBehaviour
 
     [SerializeField] private List<Ingredient> _ingredientsInMixingZone;
     [SerializeField] private List<RecepieDataSO> _availableRecipes;
+    [SerializeField] private List<Image> _recepiesVisual;
 
     private void Awake()
     {
@@ -21,6 +23,26 @@ public class MixingManager : MonoBehaviour
         else
             Destroy(gameObject);
     }
+
+    private void Start()
+    {
+        InitRecepies();
+    }
+
+    private void InitRecepies()
+    {
+        if (_recepiesVisual.Count != AvailableRecepies.Count)
+        {
+            Debug.LogError("Количество картинок рецептов не соответсвует кол-ву доступных рецептов");
+            return;
+        }
+
+        for (int i = 0; i < _availableRecipes.Count; i++)
+        {
+            _recepiesVisual[i].sprite = _availableRecipes[i].RecepieSprite;
+        }
+    }
+
 
     public void PutItemInMixingZone(Ingredient ingredient)
     {

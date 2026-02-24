@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Pineapple
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Pineapple
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: 837517196756356485, guid: 16f73c59d8c129b4a9a594a3f0f9e8a5, type: 3}

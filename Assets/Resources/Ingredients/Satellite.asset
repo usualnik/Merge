@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Satellite
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Satellite
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: -8541936030981981254, guid: 94387da68e483954c93f8bcbbc9ffb0d, type: 3}

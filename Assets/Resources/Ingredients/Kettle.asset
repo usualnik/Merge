@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Kettle
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Kettle
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: -8472049598239381741, guid: 0dfaaae0b51d2be49b805636386d3662, type: 3}

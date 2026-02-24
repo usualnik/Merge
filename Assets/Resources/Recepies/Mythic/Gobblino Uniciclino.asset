@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 112
   _recepieName: Gobblino Uniciclino
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: 2a6608c71f40aec46b582f38ad6bc7a0, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: 8751a1253b3364949ad9070299b0756b, type: 2}
   - {fileID: 11400000, guid: 20e2346a15292654795b777677d06611, type: 2}

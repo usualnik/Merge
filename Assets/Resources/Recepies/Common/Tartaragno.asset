@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 38
   _recepieName: Tartaragno
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: e33eab72a7d3b2249a7c83208f3cc023, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: 75c00b3a7863c13438ed4e6fe61347f9, type: 2}
   - {fileID: 11400000, guid: 46d7020b6f02f5045a3d89d4d9369983, type: 2}

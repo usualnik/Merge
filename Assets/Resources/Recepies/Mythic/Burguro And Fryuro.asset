@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 95
   _recepieName: Burguro And Fryuro
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: 711e715e70add6849ab3865a89404440, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: 59f9a140607d8634abedecd19e92aacf, type: 2}
   - {fileID: 11400000, guid: 2c44183480c5efe4ea8b3a42447b4b6f, type: 2}

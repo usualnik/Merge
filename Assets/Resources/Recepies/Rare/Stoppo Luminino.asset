@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 187
   _recepieName: Stoppo Luminino
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: 2b26ef2d7510fdf418522b65bba6af07, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: d2883137b8e06a845a6541421a403616, type: 2}
   - {fileID: 11400000, guid: e8451a1be49379e4cb0994236e4a5ee7, type: 2}

@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 88
   _recepieName: Tukanno Bananno
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: 0cc6883a8ca29b542a3b6ddfb263f5b8, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: a19612dafdf5bea44bc4cc6465b9b6ec, type: 2}
   - {fileID: 11400000, guid: 31e637cdf04c3474ba00dec6890ae75e, type: 2}

@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 177
   _recepieName: Pi Pi Watermelon
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: 04d84dc6626fee84fac19ace2c2513f4, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: 6f2d286d686fed94d8af612b3169d110, type: 2}
   - {fileID: 11400000, guid: ae932d32ccbae204cb1fcdc1590261f5, type: 2}

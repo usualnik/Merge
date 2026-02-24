@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 82
   _recepieName: Tentacolo Tecnico
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: 98d31b12965478145b6597c10406089a, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: ea5941ff45e64eb4194934c4c2789dd8, type: 2}
   - {fileID: 11400000, guid: b199a186f9590994194e986a40a7bbbb, type: 2}

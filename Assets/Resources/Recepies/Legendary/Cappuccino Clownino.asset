@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 55
   _recepieName: Cappuccino Clownino
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: 2b928386dfd49694a9a36745c479c151, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: 09430b80b3cebac42bf58ccfbcddd5b9, type: 2}
   - {fileID: 11400000, guid: 7986119881cfefb4d9b6c5e8ef8ea7d1, type: 2}

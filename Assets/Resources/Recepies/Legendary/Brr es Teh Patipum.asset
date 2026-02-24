@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 51
   _recepieName: Brr es Teh Patipum
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: 78364a5f1839153448f984e389865359, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: d2883137b8e06a845a6541421a403616, type: 2}
   - {fileID: 11400000, guid: 1c0e4b46cb29e2d4d85b8af65661262f, type: 2}

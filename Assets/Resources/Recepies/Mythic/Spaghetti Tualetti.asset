@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 134
   _recepieName: Spaghetti Tualetti
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: ec55ec63f83d99d44b6bb592bd880b94, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: 6414d10adb8510b4b92fde7d31af28e5, type: 2}
   - {fileID: 11400000, guid: 7b9c04e8b5a57cb428b704d6a250b93f, type: 2}

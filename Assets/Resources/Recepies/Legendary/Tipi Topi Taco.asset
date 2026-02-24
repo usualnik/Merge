@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 84
   _recepieName: Tipi Topi Taco
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: 163ec7ed29c5b504d87e28562ee04b62, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: 6abde63085b5e6b4e8239726d829215f, type: 2}
   - {fileID: 11400000, guid: cfdf33b743381a54a9a770c50ef91dc5, type: 2}

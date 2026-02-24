@@ -64,6 +64,15 @@ public class Ingredient : MonoBehaviour, IPointerClickHandler, IDragHandler
 
     public void OnPointerClick(PointerEventData eventData)
     {
+        if(gameObject.GetComponentInParent<LeftIngredientPanel>())
+        {
+            AudioManager.Instance.Play("LeftPanelItem");
+        }
+        else if(gameObject.GetComponentInParent<RightIngredientPanel>())
+        {
+            AudioManager.Instance.Play("RightPanelItem");
+        }
+
         StopPulsing();
     }
 

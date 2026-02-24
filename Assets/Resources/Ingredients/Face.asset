@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Face
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Face
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: -9201241512177023075, guid: 6e64beb995f3a0d4290f41f3870a3306, type: 3}

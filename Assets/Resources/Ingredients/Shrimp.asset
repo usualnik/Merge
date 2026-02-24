@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Shrimp
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Shrimp
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: 868504884959497903, guid: a1d4e26207c2691438dc21fadbeaa90a, type: 3}

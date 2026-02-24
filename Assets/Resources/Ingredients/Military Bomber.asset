@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Military Bomber
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Military Bomber
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: -5210293140651624124, guid: 31d8c8d27401d084cbb68cbe1a9c0798, type: 3}

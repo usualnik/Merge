@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 180
   _recepieName: Ballerina Cappuccina
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: d1277ee5bcb7e7d4d880714cfaadbc2a, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: c7a9d4c75df82a643b69cdc962e618f8, type: 2}
   - {fileID: 11400000, guid: 7a2633b1626888247a2ba1ecfd5e4a64, type: 2}

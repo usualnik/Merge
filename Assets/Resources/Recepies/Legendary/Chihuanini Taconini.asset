@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 56
   _recepieName: Chihuanini Taconini
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: 917ec544611f9cf43bd888359e412bd4, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: d588489d9be56484f8333e62e1b20f34, type: 2}
   - {fileID: 11400000, guid: cfdf33b743381a54a9a770c50ef91dc5, type: 2}

@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Croissant
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Croissant
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: 8689319978456130346, guid: 30a2f7dff6ca6a24bb82870386fbb39b, type: 3}

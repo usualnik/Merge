@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Axolotl
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Axolotl
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: 2629135747056496516, guid: 6332c92587982ae448841823c63b6cf8, type: 3}

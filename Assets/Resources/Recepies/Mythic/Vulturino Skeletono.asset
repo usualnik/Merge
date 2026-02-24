@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 144
   _recepieName: Vulturino Skeletono
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: 8bf9235ac203b3f478f1fe424e2761fe, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: 661d3c2fa9dddfb4d922f52c4e64e631, type: 2}
   - {fileID: 11400000, guid: 3f0b50c22c1c3fc4fa4f4844da89d9e1, type: 2}

@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 111
   _recepieName: Giftini Spyderini
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: 4e0b396593c21f84b9cc88293a774053, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: 46d7020b6f02f5045a3d89d4d9369983, type: 2}
   - {fileID: 11400000, guid: 015e9c72b2ed5f14188226f59c14b05f, type: 2}

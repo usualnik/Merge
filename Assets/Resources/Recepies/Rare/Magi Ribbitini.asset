@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 174
   _recepieName: Magi Ribbitini
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: 5f72933196447a941975f925090252c4, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: 6fff74237befe6c478e5f0455494d4ae, type: 2}
   - {fileID: 11400000, guid: 9b3ff9d3a5ea7ff47ad5963923342a4d, type: 2}

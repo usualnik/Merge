@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Duck
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Duck
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: -6524517629087480824, guid: ce66584565b65e5499f04d567aa6490f, type: 3}

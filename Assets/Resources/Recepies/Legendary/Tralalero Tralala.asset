@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 86
   _recepieName: Tralalero Tralala
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: a522882a907f23f40a054d33281d362d, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: 7cd212b861469c9419e24e916ddcf5ad, type: 2}
   - {fileID: 11400000, guid: 147b0861fac94334bae700af770a5df1, type: 2}

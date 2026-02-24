@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Bamboo
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Bamboo
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: 6929814024863328386, guid: 6a156bb60f51e8c42a20dd919b202452, type: 3}

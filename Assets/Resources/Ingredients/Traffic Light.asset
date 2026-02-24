@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Traffic Light
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: TrafficLight
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: -5471171667472520872, guid: bbabdccc10add9c43a6116754419453c, type: 3}

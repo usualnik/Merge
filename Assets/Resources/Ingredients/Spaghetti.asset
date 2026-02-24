@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Spaghetti
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Spaghetti
-  _ingredientSprite: {fileID: 0}
+  _ingredientSprite: {fileID: 2605756565826460029, guid: 6d1fcc1539c64bb41b1cbfb66cb3e9ad, type: 3}

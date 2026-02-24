@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RecepieDataSO
   _recepieId: 181
   _recepieName: Quivoli Ameleoni
-  _recepieSprite: {fileID: 0}
+  _recepieSprite: {fileID: 21300000, guid: 111809c3464bf5f4d97b28bedd6a02db, type: 3}
   _ingredients:
   - {fileID: 11400000, guid: f5f35d4616608a645aebf476051f65ab, type: 2}
   - {fileID: 11400000, guid: 18a7a0a282fa95043a3ae7977551dac7, type: 2}
