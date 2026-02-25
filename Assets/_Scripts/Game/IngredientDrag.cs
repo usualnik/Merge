@@ -127,7 +127,7 @@ public class IngredientDrag : MonoBehaviour,
     {
         if (_dragObject != null)
         {
-            MixingManager.Instance.PutItemInMixingZone(_dragObject.GetComponent<Ingredient>());
+            RecepiesManager.Instance.PutItemInMixingZone(_dragObject.GetComponent<Ingredient>());
         }
     }
 

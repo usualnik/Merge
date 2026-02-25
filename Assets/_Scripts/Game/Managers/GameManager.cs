@@ -43,14 +43,14 @@ public class GameManager : MonoBehaviour
 
     private void Start()
     {
-        MixingManager.Instance.OnRecepieFound += MixingManager_OnRecepieFound;
+        RecepiesManager.Instance.OnRecepieFound += MixingManager_OnRecepieFound;
 
 
         LoadGameData();
     }
     private void OnDestroy()
     {
-        MixingManager.Instance.OnRecepieFound -= MixingManager_OnRecepieFound;
+        RecepiesManager.Instance.OnRecepieFound -= MixingManager_OnRecepieFound;
 
     }
 
@@ -82,7 +82,7 @@ public class GameManager : MonoBehaviour
 
         _openedBrainrotIndexes.Add(recepieFoundData.RecepieID);
         PlayerData.Instance.ChangeOpenedBrainrotIndexes(_openedBrainrotIndexes);
-
+        PlayerData.Instance.SetCurrentScore(PlayerData.Instance.GetCurrentScoreAmount() + _score);
 
         GivePlayerRewardForFinding(recepieFoundData);
 
@@ -127,6 +127,15 @@ public class GameManager : MonoBehaviour
     public void UnPauseGame()
     {
         _pausePanel.gameObject.SetActive(false);
+    }
+
+
+    public void BuyHint()
+    {
+        if (_coins <= 10) return;
+
+        ChangeCoins(-10);
+        ReceiveHint(1);
     }
 
     public void ReceiveHint(int value)

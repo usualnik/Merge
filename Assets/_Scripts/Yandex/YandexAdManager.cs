@@ -13,10 +13,20 @@ public class YandexAdManager : MonoBehaviour
 
     private const float AD_COOLDOWN_MAX = 65f;
     private const float AD_WARNING_TIME = 2f;
-    private const float AD_COOLDOWN_STORE_DELAY = 10f;
 
     private float adTimer;
+
+    //ID's
     private const string AD_FREE_PURCHASE_ID = "0";
+
+    private const string SMALL_MONEY_PACK_ID = "1";
+    private const string MEDIUM_MONEY_PACK_ID = "2";
+    private const string BIG_MONEY_PACK_ID = "3";
+
+    //REWARDS
+    private const int SMALL_MONEY_PACK = 200;
+    private const int MEDIUM_MONEY_PACK = 800;
+    private const int BIG_MONEY_PACK = 1500;
 
     private void Awake()
     {
@@ -69,11 +79,7 @@ public class YandexAdManager : MonoBehaviour
                 HideAdWarning();
             }
         }
-        else if (adTimer <= AD_WARNING_TIME)
-        {
-            // Если открыто окно магазина и таймер подошел к показу рекламы - рестартим таймер
-            adTimer = AD_COOLDOWN_STORE_DELAY;
-        }
+
     }
 
     private void ShowInterstitial()
@@ -96,19 +102,42 @@ public class YandexAdManager : MonoBehaviour
         YG2.BuyPayments(AD_FREE_PURCHASE_ID);
     }
 
+    public void BuyMoneyPack(string moneyPackID)
+    {
+        YG2.BuyPayments(moneyPackID);
+    }
+
     private void OnPurchaseSuccess(string id)
     {
-        if (id == AD_FREE_PURCHASE_ID)
+        switch (id)
         {
-            _shouldShowAd = false;
-            PlayerData.Instance.SetShouldShowAd(_shouldShowAd);
-
-            YG2.ConsumePurchaseByID(id); // Консумируем покупку
-
-            _adFreeButton.gameObject.SetActive(false);
-            _adFreeText.gameObject.SetActive(false);
-            _adWarning.SetActive(false);
+            case AD_FREE_PURCHASE_ID:
+                HandleDisbleAds(id);
+                break;
+            case SMALL_MONEY_PACK_ID:
+                GameManager.Instance.ChangeCoins(SMALL_MONEY_PACK);
+                break;
+            case MEDIUM_MONEY_PACK_ID:
+                GameManager.Instance.ChangeCoins(MEDIUM_MONEY_PACK);
+                break;
+            case BIG_MONEY_PACK_ID:
+                GameManager.Instance.ChangeCoins(BIG_MONEY_PACK);
+                break;
+            default:
+                break;
         }
+
+        YG2.ConsumePurchaseByID(id);
+    }
+
+    private void HandleDisbleAds(string id)
+    {
+        _shouldShowAd = false;
+        PlayerData.Instance.SetShouldShowAd(_shouldShowAd);
+
+        _adFreeButton.gameObject.SetActive(false);
+        _adFreeText.gameObject.SetActive(false);
+        _adWarning.SetActive(false);
     }
 
     public void ShowRewarded()
@@ -116,7 +145,7 @@ public class YandexAdManager : MonoBehaviour
         YG2.RewardedAdvShow("", () =>
         {
             GameManager.Instance.ReceiveHint(1);
-            
+
         });
     }
 }

@@ -27,7 +27,7 @@ public class HintHandler : MonoBehaviour
         if (GameManager.Instance.Hints <= 0) return;
 
 
-        var allRecepies = MixingManager.Instance.AvailableRecepies;
+        var allRecepies = RecepiesManager.Instance.AvailableRecepies;
         RecepieDataSO notYetFoundedRecepie = null;
 
         foreach (var receipt in allRecepies)
