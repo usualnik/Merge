@@ -6,7 +6,7 @@ public class VisualHandler : MonoBehaviour
 {
     public static VisualHandler Instance { get; private set; }
 
-    [SerializeField] private RectTransform _allRecepiesBookTransform;
+    [SerializeField] private RectTransform _animFinalPos;
     [SerializeField] private GameObject _blankVisual;
     [SerializeField] private RectTransform _startPos;
 
@@ -98,7 +98,7 @@ public class VisualHandler : MonoBehaviour
         Sequence animationSequence = DOTween.Sequence();
 
         // Анимация движения к книге рецептов
-        Tween moveTween = _blankRectTransform.DOMove(_allRecepiesBookTransform.position, _moveDuration, true)
+        Tween moveTween = _blankRectTransform.DOMove(_animFinalPos.position, _moveDuration, true)
             .SetEase(_moveEase);
 
         // Анимация пульсации
@@ -113,15 +113,10 @@ public class VisualHandler : MonoBehaviour
         animationSequence.Append(moveTween);
         animationSequence.Join(punchTween);
 
-        // Добавляем эффект затухания в конце
-        animationSequence.Append(_blankImage.DOFade(0f, 0.3f));
 
-        // Скрываем объект после завершения анимации
         animationSequence.OnComplete(() =>
         {
-            _blankVisual.SetActive(false);
-            // Возвращаем прозрачность обратно для следующего использования
-            _blankImage.DOFade(1f, 0f);
+          
         });
 
         // Запускаем анимацию

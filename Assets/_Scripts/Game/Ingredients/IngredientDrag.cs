@@ -54,6 +54,11 @@ public class IngredientDrag : MonoBehaviour,
             _dragObject = Instantiate(gameObject, gameObject.transform.position,
                 gameObject.transform.rotation, _mixingZoneTransform);
 
+            if (_dragObject.GetComponentInChildren<IngredientCellVisual>() != null)
+            {
+                _dragObject.GetComponentInChildren<IngredientCellVisual>().SetVisualActive(false);
+            }
+
             if (_dragObject.TryGetComponent(out IngredientDrag ingredientDrag))
             {
                 ingredientDrag.SetIsOriginal(false);
@@ -112,6 +117,12 @@ public class IngredientDrag : MonoBehaviour,
             _centerTransform.transform.position,
             Quaternion.identity,
             _mixingZoneTransform);
+
+
+        if (_dragObject.GetComponentInChildren<IngredientCellVisual>() != null)
+        {
+            _dragObject.GetComponentInChildren<IngredientCellVisual>().SetVisualActive(false);
+        }
 
         if (_dragObject.TryGetComponent(out IngredientDrag ingredientDrag))
         {

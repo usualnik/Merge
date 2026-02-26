@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Turkey
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Turkey
-  _ingredientSprite: {fileID: -7749648844964119915, guid: 88e1d1394748fe74f986ae6d99618147, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: e878b6498c9a82e4db6021787cef0c09, type: 3}

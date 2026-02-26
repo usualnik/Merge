@@ -7,13 +7,15 @@
         false,
         false
     ],
-    "idSave": 3,
+    "idSave": 9,
     "YandexServerData": {
-        "Gold": 16,
-        "Score": 1,
+        "Gold": 52,
+        "Score": 6,
         "Hints": 3,
         "OpenedBrainrotsIndexes": [
-            91
+            0,
+            129,
+            157
         ],
         "IsFirstTimePlaying": true,
         "IsTelegramRewardRecived": false,

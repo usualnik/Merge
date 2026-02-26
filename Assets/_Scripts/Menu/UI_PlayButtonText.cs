@@ -1,21 +1,21 @@
 using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
-//using YG;
+using YG;
 
 public class UI_PlayButtonText : MonoBehaviour
 {
-    private Button _loadGameButton;
-    private TextMeshProUGUI _loadGameButtonText; 
+    [SerializeField] private TextMeshProUGUI _loadGameButtonText;
 
-    //private string _playButtonTextRU = "«¿√–”« ¿...";
-    //private string _playButtonTextEN = "LOADING...";
+    private Button _loadGameButton;
+
+    private string _playButtonTextRU = "«¿√–”« ¿...";
+    private string _playButtonTextEN = "LOADING...";
 
 
     private void Awake()
     {
         _loadGameButton = GetComponent<Button>();
-        _loadGameButtonText = GetComponentInChildren<TextMeshProUGUI>();
     }
 
     private void Start()
@@ -30,6 +30,6 @@ public class UI_PlayButtonText : MonoBehaviour
 
     private void ChangePlayButtonText()
     {
-        //_loadGameButtonText.text = /*YG2.envir.language == "ru"*/ true ? _playButtonTextRU : _playButtonTextEN;
+        _loadGameButtonText.text = YG2.envir.language == "ru" ? _playButtonTextRU : _playButtonTextEN;
     }
 }

@@ -88,11 +88,12 @@ public class RecepiesManager : MonoBehaviour
 
         foreach (RecepieDataSO recipe in _availableRecipes)
         {
-            if (IsRecipeMatched(recipe))
+            if (IsRecipeMatched(recipe) 
+                && !GameManager.Instance.RecepieFoundIndexes.Contains(recipe.RecepieID))
             {
                 OnRecepieFound?.Invoke(recipe);
-                OpenRecepieInIndex(recipe);
-                return;
+                OpenRecepieInIndex(recipe);      
+                ClearIngredientsFromMixingSpace(recipe.RequiredIngredients);
             }
         }
     }
@@ -119,7 +120,7 @@ public class RecepiesManager : MonoBehaviour
                 if (currentCopy[i].IngredientData == required)
                 {
                     found = true;
-                    currentCopy.RemoveAt(i);
+                    currentCopy.RemoveAt(i);                    
                     break;
                 }
             }
@@ -127,6 +128,8 @@ public class RecepiesManager : MonoBehaviour
             if (!found)
                 return false;
         }
+
+
 
         return true;
     }
@@ -141,6 +144,22 @@ public class RecepiesManager : MonoBehaviour
 
         _ingredientsInMixingZone.Clear();
         Debug.Log("Зона смешивания очищена");
+    }
+
+    private void ClearIngredientsFromMixingSpace(List<IngredientDataSO> ingredientDatas)
+    {
+        var ingredientsToRemove = new List<Ingredient>(_ingredientsInMixingZone);
+
+        foreach (var ingredient in ingredientsToRemove)
+        {
+            if (ingredientDatas.Contains(ingredient.IngredientData))
+            {
+                ingredient.DestroySelf();
+                _ingredientsInMixingZone.Remove(ingredient);
+            }
+        }
+
+        Debug.Log($"Удалено ингредиентов: {ingredientDatas.Count}. Осталось в зоне: {_ingredientsInMixingZone.Count}");
     }
 
     public List<RecepieDataSO> AvailableRecepies => _availableRecipes;
