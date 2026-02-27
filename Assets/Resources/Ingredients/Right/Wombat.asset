@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Wombat
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Wombat
-  _ingredientSprite: {fileID: -5875212304094909008, guid: 204305d17c8de5e4ab3bde2eaa4d303b, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: 204305d17c8de5e4ab3bde2eaa4d303b, type: 3}

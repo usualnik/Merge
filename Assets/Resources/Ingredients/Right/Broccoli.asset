@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Broccoli
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Broccoli
-  _ingredientSprite: {fileID: -918663293682559355, guid: 16ed1e6a6dc0b6b4cad16c81fae3e829, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: 16ed1e6a6dc0b6b4cad16c81fae3e829, type: 3}

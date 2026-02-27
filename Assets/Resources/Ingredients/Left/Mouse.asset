@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Mouse
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Mouse
-  _ingredientSprite: {fileID: -357421434760999972, guid: 9ae084112ecc77340ba243e70009e83c, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: 9ae084112ecc77340ba243e70009e83c, type: 3}

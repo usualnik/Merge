@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Jingle Bell
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: JingleBell
-  _ingredientSprite: {fileID: 4492904347118342694, guid: 53344b4c3e9cc804093794443b521d61, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: 53344b4c3e9cc804093794443b521d61, type: 3}

@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Shovel
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Shovel
-  _ingredientSprite: {fileID: 57591053551863209, guid: d7f34935509ca9542af9b80e301dda13, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: d7f34935509ca9542af9b80e301dda13, type: 3}

@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Cracker
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Cracker
-  _ingredientSprite: {fileID: 8638724895164279180, guid: 1532588aea998744991fbb07877e01f0, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: 1532588aea998744991fbb07877e01f0, type: 3}

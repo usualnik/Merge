@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Helicopter
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Helicopter
-  _ingredientSprite: {fileID: -555744780623910725, guid: 8499f93291a25b04f85e28e0761b42c6, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: 8499f93291a25b04f85e28e0761b42c6, type: 3}

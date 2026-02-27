@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Table
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Table
-  _ingredientSprite: {fileID: 497600754102043572, guid: 10f5f52cbaca090449d20caf5bf56e65, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: 10f5f52cbaca090449d20caf5bf56e65, type: 3}

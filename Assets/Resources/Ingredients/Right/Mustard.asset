@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Mustard
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Mustard
-  _ingredientSprite: {fileID: -6399377875656792447, guid: 3a0c068d463baec4d8adb73c436b1dd1, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: 3a0c068d463baec4d8adb73c436b1dd1, type: 3}

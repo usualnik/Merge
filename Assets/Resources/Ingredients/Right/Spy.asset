@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Spy
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Spy
-  _ingredientSprite: {fileID: -9148348609924905823, guid: 0bdff03cb8a0a6d4f9e175089d56b1ab, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: 0bdff03cb8a0a6d4f9e175089d56b1ab, type: 3}

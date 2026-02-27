@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Metal Pipe
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Metal Pipe
-  _ingredientSprite: {fileID: 7692010008731235838, guid: 1db98aeb032d09949a5f04e2daa7ad24, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: 1db98aeb032d09949a5f04e2daa7ad24, type: 3}

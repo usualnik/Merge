@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Flamingo
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Flamingo
-  _ingredientSprite: {fileID: -375883593249083150, guid: bfb38aa55584b954dae82368cce98232, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: bfb38aa55584b954dae82368cce98232, type: 3}

@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Sushi
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Sushi
-  _ingredientSprite: {fileID: -1532564777219809439, guid: 71c2fba3b05cdfb4293d682abfc4ce37, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: 71c2fba3b05cdfb4293d682abfc4ce37, type: 3}

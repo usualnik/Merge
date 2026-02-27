@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Chameleon
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Chameleon
-  _ingredientSprite: {fileID: -3551205180599332140, guid: 27f7f6494774a9a4eaa4fc7fd9e58d0f, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: 27f7f6494774a9a4eaa4fc7fd9e58d0f, type: 3}

@@ -81,7 +81,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 512
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -125,10 +125,10 @@ TextureImporter:
       name: 169_0
       rect:
         serializedVersion: 2
-        x: 211
+        x: 210
         y: 478
-        width: 30
-        height: 45
+        width: 32
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -147,10 +147,10 @@ TextureImporter:
       name: 169_1
       rect:
         serializedVersion: 2
-        x: 313
+        x: 312
         y: 514
-        width: 11
-        height: 16
+        width: 13
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -169,10 +169,10 @@ TextureImporter:
       name: 169_2
       rect:
         serializedVersion: 2
-        x: 399
+        x: 398
         y: 493
-        width: 34
-        height: 41
+        width: 36
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -191,10 +191,10 @@ TextureImporter:
       name: 169_3
       rect:
         serializedVersion: 2
-        x: 88
-        y: 35
-        width: 562
-        height: 447
+        x: 87
+        y: 34
+        width: 564
+        height: 449
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

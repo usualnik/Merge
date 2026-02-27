@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Racoon
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Racoon
-  _ingredientSprite: {fileID: 802712436491807689, guid: c02b4e0d02f09ba4981676224061820c, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: c02b4e0d02f09ba4981676224061820c, type: 3}

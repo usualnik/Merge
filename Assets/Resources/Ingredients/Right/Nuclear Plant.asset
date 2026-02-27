@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Nuclear Plant
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: NuclearPlant
-  _ingredientSprite: {fileID: -7936788263781518506, guid: ab74128af15e37f4e95daeefec00572a, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: ab74128af15e37f4e95daeefec00572a, type: 3}

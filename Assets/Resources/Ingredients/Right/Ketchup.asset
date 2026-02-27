@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Ketchup
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Ketchup
-  _ingredientSprite: {fileID: -8705798204074543797, guid: 8465d8e6e381cdb40844acf9b11ab724, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: 8465d8e6e381cdb40844acf9b11ab724, type: 3}

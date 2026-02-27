@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Rocket
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Rocket
-  _ingredientSprite: {fileID: 6711257252158638106, guid: 8cfb17c5ab360544abc16c7a9d5c6807, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: 8cfb17c5ab360544abc16c7a9d5c6807, type: 3}

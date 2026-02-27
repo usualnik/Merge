@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Chili
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Chili
-  _ingredientSprite: {fileID: -3714129548747480288, guid: 8455462eef677bf4e81d7cb9d3f8b795, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: 8455462eef677bf4e81d7cb9d3f8b795, type: 3}

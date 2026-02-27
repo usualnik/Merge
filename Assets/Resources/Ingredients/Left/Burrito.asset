@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Burrito
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Burrito
-  _ingredientSprite: {fileID: 9192687251970799782, guid: 86790fb7c2106e04eb4ec30693bab4d4, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: 86790fb7c2106e04eb4ec30693bab4d4, type: 3}

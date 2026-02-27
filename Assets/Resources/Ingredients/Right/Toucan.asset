@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Toucan
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Toucan
-  _ingredientSprite: {fileID: -648190706985634716, guid: 759b9edb83cec5d4191159953a021835, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: 759b9edb83cec5d4191159953a021835, type: 3}

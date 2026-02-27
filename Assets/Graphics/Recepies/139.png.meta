@@ -8,6 +8,9 @@ TextureImporter:
   - first:
       213: -2320838870684875356
     second: 139_1
+  - first:
+      213: 5589192296341742112
+    second: 139_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -75,7 +78,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 512
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -119,10 +122,10 @@ TextureImporter:
       name: 139_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 2
-        width: 268
-        height: 167
+        x: 103
+        y: 161
+        width: 9
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -142,9 +145,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 137
-        y: 159
+        y: 158
         width: 10
-        height: 6
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -155,6 +158,28 @@ TextureImporter:
       bones: []
       spriteID: 4a5c8ebe759bacfd0800000000000000
       internalID: -2320838870684875356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 139_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 268
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022acccd7ccc09d40800000000000000
+      internalID: 5589192296341742112
       vertices: []
       indices: 
       edges: []
@@ -175,6 +200,7 @@ TextureImporter:
     nameFileIdTable:
       139_0: 2793286064792290627
       139_1: -2320838870684875356
+      139_2: 5589192296341742112
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

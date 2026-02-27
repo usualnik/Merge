@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Toilet Paper
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: ToiletPaper
-  _ingredientSprite: {fileID: -2631861542875372808, guid: dfe02303627bae442ad9270693a666c9, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: dfe02303627bae442ad9270693a666c9, type: 3}

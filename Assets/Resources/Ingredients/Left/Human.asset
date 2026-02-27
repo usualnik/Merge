@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Human
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Human
-  _ingredientSprite: {fileID: -7796864351666666146, guid: ecabb4036e2680947b5493fce554176a, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: ecabb4036e2680947b5493fce554176a, type: 3}

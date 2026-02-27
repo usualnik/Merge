@@ -24,7 +24,7 @@ MonoBehaviour:
     languages:
       ru: 1
       en: 1
-      tr: 0
+      tr: 1
       az: 0
       be: 0
       he: 0
@@ -148,37 +148,37 @@ MonoBehaviour:
     testBuyFail: 0
     purshases:
     - id: 0
-      title: AD
+      title: 
       description: 
       imageURI: 
-      price: 500 YAN
+      price: 
       priceValue: 
       priceCurrencyCode: 
       currencyImageURL: 
       consumed: 0
     - id: 1
-      title: "200 \u043C\u043E\u043D\u0435\u0442"
+      title: 
       description: 
       imageURI: 
-      price: 200 YAN
+      price: 
       priceValue: 
       priceCurrencyCode: 
       currencyImageURL: 
       consumed: 0
     - id: 2
-      title: "600 \u043C\u043E\u043D\u0435\u0442"
+      title: 
       description: 
       imageURI: 
-      price: 600 YAN
+      price: 
       priceValue: 
       priceCurrencyCode: 
       currencyImageURL: 
       consumed: 0
     - id: 3
-      title: "1500 \u043C\u043E\u043D\u0435\u0442"
+      title: 
       description: 
       imageURI: 
-      price: 1000 YAN
+      price: 
       priceValue: 
       priceCurrencyCode: 
       currencyImageURL: 
@@ -203,7 +203,7 @@ MonoBehaviour:
     loadSceneIfSDKLate: 0
     loadSceneIndex: 0
     initDelaySimulation: 0
-    buildNumber: 1
+    buildNumber: 0
   Simulation:
     device: 0
     language: ru
@@ -230,7 +230,7 @@ MonoBehaviour:
     fixedAspectRatio: 0
     aspectRatio: 16/9
     disableForMobile: 1
-    fillBackground: 1
+    fillBackground: 0
     imageBackground: 0
     imageName: background.jpg
     gradientBackgroundByAspectRatio:

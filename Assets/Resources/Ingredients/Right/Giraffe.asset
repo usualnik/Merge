@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Giraffe
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Giraffe
-  _ingredientSprite: {fileID: -4295607627919525082, guid: e4f75012c3e42f5448a0625829deac68, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: e4f75012c3e42f5448a0625829deac68, type: 3}

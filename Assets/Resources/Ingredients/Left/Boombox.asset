@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Boombox
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Boombox
-  _ingredientSprite: {fileID: 5623580310537268006, guid: 2cd75db97ce6be74e99a096f365e4031, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: 2cd75db97ce6be74e99a096f365e4031, type: 3}

@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Crocodile
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Crocodile
-  _ingredientSprite: {fileID: 6757415272399321624, guid: 96a68cb2cac82e14d91a6c14da89c608, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: 96a68cb2cac82e14d91a6c14da89c608, type: 3}

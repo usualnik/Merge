@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: AC
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: AC
-  _ingredientSprite: {fileID: -3017468023945734260, guid: 175df33e2f9f4f74b827eb05b3b05bcd, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: 175df33e2f9f4f74b827eb05b3b05bcd, type: 3}

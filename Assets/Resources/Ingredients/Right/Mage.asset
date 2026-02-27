@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Mage
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Mage
-  _ingredientSprite: {fileID: -7285376162372006033, guid: 4469383bf7fbd714ebf3123cefea7520, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: 4469383bf7fbd714ebf3123cefea7520, type: 3}

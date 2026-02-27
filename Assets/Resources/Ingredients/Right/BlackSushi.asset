@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: BlackSushi
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: BlackSushi
-  _ingredientSprite: {fileID: -8552059478864293309, guid: 6c1ae5ebc4d4a674caaf9117c223cc83, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: 6c1ae5ebc4d4a674caaf9117c223cc83, type: 3}

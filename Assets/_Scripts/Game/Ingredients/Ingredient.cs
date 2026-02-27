@@ -11,6 +11,7 @@ public class Ingredient : MonoBehaviour, IPointerClickHandler, IDragHandler
     [SerializeField] private IngredientDataSO _ingredientData;
     [SerializeField] private float _pulseScale = 1.2f;
     [SerializeField] private float _pulseDuration = 0.3f;
+    [SerializeField] private bool _isShouldPulseFromStart = false;
 
     private IngredientVisual ingredientImage;
     private Sequence _pulseSequence; 
@@ -19,7 +20,14 @@ public class Ingredient : MonoBehaviour, IPointerClickHandler, IDragHandler
     {
         ingredientImage = GetComponentInChildren<IngredientVisual>(); 
     }
-
+    private void Start()
+    {
+        if(_isShouldPulseFromStart && _ingredientData != null)
+        {
+            StartPulsing();
+            InitIngredient(IngredientData);
+        }
+    }
     public void InitIngredient(IngredientDataSO data)
     {
         _ingredientData = data;
@@ -30,7 +38,10 @@ public class Ingredient : MonoBehaviour, IPointerClickHandler, IDragHandler
     {
         Destroy(gameObject);
     }
-
+    public void DestroySelf(float Time)
+    {
+        Invoke(nameof(DestroySelf), Time);
+    }
  
     public void StartPulsing()
     {

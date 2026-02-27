@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Monkey
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Monkey
-  _ingredientSprite: {fileID: 973301482186294925, guid: c29d325e9933ec5428321f9b4c0b770e, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: c29d325e9933ec5428321f9b4c0b770e, type: 3}

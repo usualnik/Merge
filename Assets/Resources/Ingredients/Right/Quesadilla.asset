@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Quesadilla
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Quesadilla
-  _ingredientSprite: {fileID: 4935226404266250116, guid: f8f490e0b9f4cec4791550586b398bbc, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: f8f490e0b9f4cec4791550586b398bbc, type: 3}

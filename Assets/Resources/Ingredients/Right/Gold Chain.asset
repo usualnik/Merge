@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Gold Chain
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: GoldChain
-  _ingredientSprite: {fileID: 4533270062658607021, guid: 73aeb6b22a3dc194e93f27de1367593c, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: 73aeb6b22a3dc194e93f27de1367593c, type: 3}

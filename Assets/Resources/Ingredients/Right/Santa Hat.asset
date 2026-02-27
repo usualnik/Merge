@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Santa Hat
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: SantaHat
-  _ingredientSprite: {fileID: 4025232574583324718, guid: 0c1999cce5b25194e91cf921c7795496, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: 0c1999cce5b25194e91cf921c7795496, type: 3}

@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Fancy Hat
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Fancy Hat
-  _ingredientSprite: {fileID: -273448483950097741, guid: ad4a61c8a2a27034c9b0002aa8e70c39, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: ad4a61c8a2a27034c9b0002aa8e70c39, type: 3}

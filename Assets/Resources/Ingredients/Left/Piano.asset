@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Piano
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Piano
-  _ingredientSprite: {fileID: 6663351734690151557, guid: 020335d067fd0d049ad05f2429c73850, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: 020335d067fd0d049ad05f2429c73850, type: 3}

@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Deer
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Deer
-  _ingredientSprite: {fileID: -2449844058664256442, guid: 7e150261cc537874793eee9fcd1469bf, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: 7e150261cc537874793eee9fcd1469bf, type: 3}

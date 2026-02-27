@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: House
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: House
-  _ingredientSprite: {fileID: -7411974349392773033, guid: c2049697cb062e5448869ae902c21256, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: c2049697cb062e5448869ae902c21256, type: 3}

@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Lemonade
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Lemonade
-  _ingredientSprite: {fileID: -6815237781551727825, guid: 5879d5642ae94084facb76731a6129fa, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: 5879d5642ae94084facb76731a6129fa, type: 3}

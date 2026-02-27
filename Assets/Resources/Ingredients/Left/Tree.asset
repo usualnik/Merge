@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Tree
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Tree
-  _ingredientSprite: {fileID: 6853316077166303748, guid: a09e3e7fe58629649aa175c4f883cbc7, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: a09e3e7fe58629649aa175c4f883cbc7, type: 3}

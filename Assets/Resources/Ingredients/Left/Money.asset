@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Money
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Money
-  _ingredientSprite: {fileID: 5670732621190257608, guid: 75c3f9aba1f4b454f98947f23e949105, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: 75c3f9aba1f4b454f98947f23e949105, type: 3}

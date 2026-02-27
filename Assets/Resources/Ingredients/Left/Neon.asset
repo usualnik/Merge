@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Neon
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Neon
-  _ingredientSprite: {fileID: 5778109613707237557, guid: 06370d0a8ba024c488a2d8859575f780, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: 06370d0a8ba024c488a2d8859575f780, type: 3}

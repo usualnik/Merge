@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Seal
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Seal
-  _ingredientSprite: {fileID: -8741545005956383620, guid: 130ee120a4bf87d448afcaffca215e3f, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: 130ee120a4bf87d448afcaffca215e3f, type: 3}

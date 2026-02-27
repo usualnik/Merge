@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Orange Glasses
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: OrangeGlasses
-  _ingredientSprite: {fileID: -7272197370183778365, guid: 4384cd341bcc5d347b293c79b412bc90, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: 4384cd341bcc5d347b293c79b412bc90, type: 3}

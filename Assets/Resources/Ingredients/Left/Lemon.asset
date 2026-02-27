@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Lemon
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Lemon
-  _ingredientSprite: {fileID: 8025649199667744028, guid: 222d5cc566d90094caeca91a7fcd5b8d, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: 222d5cc566d90094caeca91a7fcd5b8d, type: 3}

@@ -5,9 +5,6 @@ TextureImporter:
   - first:
       213: -6571389229679643093
     second: 149_0
-  - first:
-      213: 2631700574184957925
-    second: 149_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -75,7 +72,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 512
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -121,8 +118,8 @@ TextureImporter:
         serializedVersion: 2
         x: 11
         y: 10
-        width: 223
-        height: 272
+        width: 249
+        height: 275
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -133,28 +130,6 @@ TextureImporter:
       bones: []
       spriteID: b26fd14ff4cbdc4a0800000000000000
       internalID: -6571389229679643093
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 149_1
-      rect:
-        serializedVersion: 2
-        x: 227
-        y: 70
-        width: 33
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5e76c779abda58420800000000000000
-      internalID: 2631700574184957925
       vertices: []
       indices: 
       edges: []
@@ -174,7 +149,6 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       149_0: -6571389229679643093
-      149_1: 2631700574184957925
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

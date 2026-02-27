@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Car
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Car
-  _ingredientSprite: {fileID: -7921649188387484213, guid: a8b7556ca16d8184cb0f2a96cb128551, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: a8b7556ca16d8184cb0f2a96cb128551, type: 3}

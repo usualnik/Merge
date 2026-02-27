@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Bandit
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Bandit
-  _ingredientSprite: {fileID: -1897662275881480441, guid: b703b3bae90093e41acfe9d5efadc63f, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: b703b3bae90093e41acfe9d5efadc63f, type: 3}

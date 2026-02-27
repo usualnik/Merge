@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Owl
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Owl
-  _ingredientSprite: {fileID: -1788626132936788117, guid: fa2a662f9d2d91a4098531d90165270c, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: fa2a662f9d2d91a4098531d90165270c, type: 3}

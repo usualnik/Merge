@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Cappuccino
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Cappuccino
-  _ingredientSprite: {fileID: 8677107842886242865, guid: 8bc17b36a7998f04eb70259e996b49e3, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: 8bc17b36a7998f04eb70259e996b49e3, type: 3}

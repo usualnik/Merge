@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Avocado
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Avocado
-  _ingredientSprite: {fileID: 8028362493962905751, guid: 88964ef159765e64f8f56e8b9965fa7f, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: 88964ef159765e64f8f56e8b9965fa7f, type: 3}

@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Camel
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Camel
-  _ingredientSprite: {fileID: 8251382267104367013, guid: 2a326f66a49872c49b88b13011a2bbe3, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: 2a326f66a49872c49b88b13011a2bbe3, type: 3}

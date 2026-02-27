@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Blueberry
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Blueberry
-  _ingredientSprite: {fileID: -2534248692213106135, guid: 196fbb67fd5ab054cba1891d5ea558a8, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: 196fbb67fd5ab054cba1891d5ea558a8, type: 3}

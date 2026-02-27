@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Capybara
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Capybara
-  _ingredientSprite: {fileID: 8975901767701198696, guid: f73837f0a9e914949952c8c700c86e65, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: f73837f0a9e914949952c8c700c86e65, type: 3}

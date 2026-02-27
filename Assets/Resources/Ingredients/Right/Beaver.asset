@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Beaver
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Beaver
-  _ingredientSprite: {fileID: 3323056982908720812, guid: 89c0d1fd3ed14eb4298866007cfd3b4d, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: 89c0d1fd3ed14eb4298866007cfd3b4d, type: 3}

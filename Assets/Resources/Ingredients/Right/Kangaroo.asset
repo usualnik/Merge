@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Kangaroo
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Kangaroo
-  _ingredientSprite: {fileID: -432217243619647971, guid: 446a070177b719a478e541985822c4b7, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: 446a070177b719a478e541985822c4b7, type: 3}

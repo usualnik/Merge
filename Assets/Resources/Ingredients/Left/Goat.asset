@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Goat
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Goat
-  _ingredientSprite: {fileID: -4802990570011083647, guid: a4426406c20adc6468058621c5f81b4e, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: a4426406c20adc6468058621c5f81b4e, type: 3}

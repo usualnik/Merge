@@ -20,6 +20,9 @@ TextureImporter:
   - first:
       213: 3794440272581648594
     second: 114_5
+  - first:
+      213: 2622494468185061711
+    second: 114_6
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -87,7 +90,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 512
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -132,9 +135,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 86
-        y: 376
-        width: 40
-        height: 108
+        y: 377
+        width: 41
+        height: 109
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -155,8 +158,8 @@ TextureImporter:
         serializedVersion: 2
         x: 100
         y: 73
-        width: 249
-        height: 478
+        width: 207
+        height: 481
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -175,10 +178,10 @@ TextureImporter:
       name: 114_2
       rect:
         serializedVersion: 2
-        x: 355
-        y: 395
-        width: 7
-        height: 20
+        x: 356
+        y: 396
+        width: 8
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -197,10 +200,10 @@ TextureImporter:
       name: 114_3
       rect:
         serializedVersion: 2
-        x: 336
-        y: 252
-        width: 39
-        height: 22
+        x: 343
+        y: 309
+        width: 8
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -219,10 +222,10 @@ TextureImporter:
       name: 114_4
       rect:
         serializedVersion: 2
-        x: 154
-        y: 1
-        width: 91
-        height: 96
+        x: 337
+        y: 252
+        width: 40
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -241,10 +244,10 @@ TextureImporter:
       name: 114_5
       rect:
         serializedVersion: 2
-        x: 275
-        y: 16
-        width: 97
-        height: 91
+        x: 154
+        y: 0
+        width: 93
+        height: 98
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -255,6 +258,28 @@ TextureImporter:
       bones: []
       spriteID: 2d06aa8f25f88a430800000000000000
       internalID: 3794440272581648594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 114_6
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 15
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49f89103d8f46420800000000000000
+      internalID: 2622494468185061711
       vertices: []
       indices: 
       edges: []
@@ -279,6 +304,7 @@ TextureImporter:
       114_3: 8090003901687074137
       114_4: 984175803877037439
       114_5: 3794440272581648594
+      114_6: 2622494468185061711
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

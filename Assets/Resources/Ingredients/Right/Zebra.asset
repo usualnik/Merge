@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Zebra
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Zebra
-  _ingredientSprite: {fileID: 8845663894121712491, guid: 33fe27018e0b428438d6bd37ff58d5c6, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: 33fe27018e0b428438d6bd37ff58d5c6, type: 3}

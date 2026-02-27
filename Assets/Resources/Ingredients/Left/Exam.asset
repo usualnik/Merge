@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Exam
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Exam
-  _ingredientSprite: {fileID: -5819663745208782223, guid: 391be8e8368f04e468ce5587a14ba0a8, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: 391be8e8368f04e468ce5587a14ba0a8, type: 3}

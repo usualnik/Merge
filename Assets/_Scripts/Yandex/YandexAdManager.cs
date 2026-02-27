@@ -64,7 +64,7 @@ public class YandexAdManager : MonoBehaviour
 
     private void Update()
     {
-        if (!_shouldShowAd) return;
+        if (!_shouldShowAd /*|| GameManager.Instance.IsSomethingGoiungOn*/) return;
 
         adTimer -= Time.deltaTime;
 

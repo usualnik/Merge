@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Watermelon
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Watermelon
-  _ingredientSprite: {fileID: -8558258358756935692, guid: c172245f4472a6843a76edf32f4bf135, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: c172245f4472a6843a76edf32f4bf135, type: 3}

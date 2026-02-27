@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Chips
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Chips
-  _ingredientSprite: {fileID: 5247816500109422983, guid: 5b437caa2542adc49a34b18237130cd2, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: 5b437caa2542adc49a34b18237130cd2, type: 3}

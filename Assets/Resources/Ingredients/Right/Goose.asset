@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Goose
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Goose
-  _ingredientSprite: {fileID: -199876445757598851, guid: 3013f3bdd6dbde7419f808944f71deac, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: 3013f3bdd6dbde7419f808944f71deac, type: 3}

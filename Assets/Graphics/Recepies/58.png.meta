@@ -72,7 +72,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 512
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -118,7 +118,7 @@ TextureImporter:
         serializedVersion: 2
         x: 22
         y: 41
-        width: 214
+        width: 215
         height: 223
       alignment: 0
       pivot: {x: 0, y: 0}

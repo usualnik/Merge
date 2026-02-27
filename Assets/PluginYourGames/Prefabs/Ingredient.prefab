@@ -153,6 +153,7 @@ MonoBehaviour:
   _ingredientData: {fileID: 0}
   _pulseScale: 1.2
   _pulseDuration: 0.3
+  _isShouldPulseFromStart: 0
 --- !u!114 &1670028361686841477
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -165,6 +166,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: accfe089857f6674a9ce156e68fca5aa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DraggableItem
+  spiralRadius: 50
+  spiralStep: 30
+  maxObjectsInCircle: 20
 --- !u!61 &3665129687931166069
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -304,7 +308,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 3465286685962602723, guid: a862bbd7c60a79746bb5c391cd4014be, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 13666cf1eb617984f838945317043adf, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1

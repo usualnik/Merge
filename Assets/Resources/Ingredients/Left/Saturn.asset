@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Saturn
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Saturn
-  _ingredientSprite: {fileID: 5528776806964859323, guid: e13507cdff6816e49849c0d717303b9e, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: e13507cdff6816e49849c0d717303b9e, type: 3}

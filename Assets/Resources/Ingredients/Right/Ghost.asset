@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Ghost
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Ghost
-  _ingredientSprite: {fileID: -5899927303015767666, guid: 8ad18e3791bd73441a6c23db83d005cc, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: 8ad18e3791bd73441a6c23db83d005cc, type: 3}

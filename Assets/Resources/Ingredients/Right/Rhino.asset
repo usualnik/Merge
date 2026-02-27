@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Rhino
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Rhino
-  _ingredientSprite: {fileID: 9149138635119646565, guid: 16ae906fcb73dc644b337e801d0f2101, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: 16ae906fcb73dc644b337e801d0f2101, type: 3}

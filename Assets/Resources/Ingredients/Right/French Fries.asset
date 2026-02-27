@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: French Fries
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: French Fries
-  _ingredientSprite: {fileID: -352409286692185475, guid: d67ec8737a6a5ab48872ea2461e7f043, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: d67ec8737a6a5ab48872ea2461e7f043, type: 3}

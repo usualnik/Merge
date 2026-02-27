@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Dragon
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Dragon
-  _ingredientSprite: {fileID: 1372335161102834277, guid: a6138652dd681094baedb6373645be21, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: a6138652dd681094baedb6373645be21, type: 3}

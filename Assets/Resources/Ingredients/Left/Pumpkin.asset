@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Pumpkin
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Pumpkin
-  _ingredientSprite: {fileID: -3545189308076068758, guid: 9ac01e1752d33be49b78cc49dcc73164, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: 9ac01e1752d33be49b78cc49dcc73164, type: 3}

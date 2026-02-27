@@ -78,7 +78,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 512
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -122,10 +122,10 @@ TextureImporter:
       name: 150_0
       rect:
         serializedVersion: 2
-        x: 19
-        y: 8
-        width: 244
-        height: 274
+        x: 18
+        y: 7
+        width: 246
+        height: 279
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -144,10 +144,10 @@ TextureImporter:
       name: 150_1
       rect:
         serializedVersion: 2
-        x: 236
-        y: 187
-        width: 52
-        height: 40
+        x: 235
+        y: 188
+        width: 54
+        height: 41
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -166,10 +166,10 @@ TextureImporter:
       name: 150_2
       rect:
         serializedVersion: 2
-        x: 268
-        y: 174
-        width: 12
-        height: 15
+        x: 267
+        y: 176
+        width: 14
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

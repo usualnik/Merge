@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Brick
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Brick
-  _ingredientSprite: {fileID: 8222420645925065664, guid: 9404852ac4ea9154f8d8d8188740e58b, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: 9404852ac4ea9154f8d8d8188740e58b, type: 3}

@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Soda
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Soda
-  _ingredientSprite: {fileID: -1556071078381340475, guid: 97efaccd15a94b64e8e58315fe3d3716, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: 97efaccd15a94b64e8e58315fe3d3716, type: 3}

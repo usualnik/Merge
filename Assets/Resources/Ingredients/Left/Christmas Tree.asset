@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Christmas Tree
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: ChristmasTree
-  _ingredientSprite: {fileID: 4578850706304722154, guid: 444c4561b26cf5a4a9a78db281e9c73c, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: 444c4561b26cf5a4a9a78db281e9c73c, type: 3}

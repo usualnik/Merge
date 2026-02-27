@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Salt
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Salt
-  _ingredientSprite: {fileID: -673306825874429820, guid: 2fbae384e901a324dbcb98003af8c406, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: 2fbae384e901a324dbcb98003af8c406, type: 3}

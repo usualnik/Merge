@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Tiger
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Tiger
-  _ingredientSprite: {fileID: 3225629950540185153, guid: aa74633f390064041be995745d36ec0a, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: aa74633f390064041be995745d36ec0a, type: 3}

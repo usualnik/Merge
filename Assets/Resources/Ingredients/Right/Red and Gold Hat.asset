@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Red and Gold Hat
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: RedandGoldHat
-  _ingredientSprite: {fileID: 4374182473269219752, guid: 831ed324ad535df41882bdc73a3553dd, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: 831ed324ad535df41882bdc73a3553dd, type: 3}

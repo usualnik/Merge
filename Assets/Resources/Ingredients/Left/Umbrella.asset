@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Umbrella
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Umbrella
-  _ingredientSprite: {fileID: -4868476205444432284, guid: a73a7b7188662a346a974e1543c21f25, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: a73a7b7188662a346a974e1543c21f25, type: 3}

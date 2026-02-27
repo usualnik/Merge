@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Gorilla
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Gorilla
-  _ingredientSprite: {fileID: 5890076017241691463, guid: 754d23ef2ee6ade4a88d5d4799888cc7, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: 754d23ef2ee6ade4a88d5d4799888cc7, type: 3}

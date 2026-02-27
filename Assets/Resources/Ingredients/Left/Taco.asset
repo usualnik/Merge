@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Taco
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Taco
-  _ingredientSprite: {fileID: -2925908689177850180, guid: a96dd9071382fb3499128152d2d42431, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: a96dd9071382fb3499128152d2d42431, type: 3}

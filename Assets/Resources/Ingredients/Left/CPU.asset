@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: CPU
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: CPU
-  _ingredientSprite: {fileID: 8309096688390797820, guid: b7b5a1f035656984a815732a1d514858, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: b7b5a1f035656984a815732a1d514858, type: 3}

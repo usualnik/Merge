@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Foot
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Foot
-  _ingredientSprite: {fileID: 4018814452851649147, guid: ab8cd4110d9cfe44f86fbbfdd6793320, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: ab8cd4110d9cfe44f86fbbfdd6793320, type: 3}

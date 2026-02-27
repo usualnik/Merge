@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Cat
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Cat
-  _ingredientSprite: {fileID: -7232521027535748977, guid: 54580b98d189b444eaf609219adc2ea2, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: 54580b98d189b444eaf609219adc2ea2, type: 3}

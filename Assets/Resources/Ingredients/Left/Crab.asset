@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Crab
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Crab
-  _ingredientSprite: {fileID: 2104901783972924173, guid: c770f601bb723aa499519df83f0c9b24, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: c770f601bb723aa499519df83f0c9b24, type: 3}

@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Pizza
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Pizza
-  _ingredientSprite: {fileID: 6048862160296339182, guid: 0406108c36b17f549ada5329ed44ce64, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: 0406108c36b17f549ada5329ed44ce64, type: 3}

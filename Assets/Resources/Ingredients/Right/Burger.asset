@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Burger
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Burger
-  _ingredientSprite: {fileID: 731375368619335737, guid: f83906c48ef72d44894beb1e87106161, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: f83906c48ef72d44894beb1e87106161, type: 3}

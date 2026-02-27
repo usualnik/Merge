@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Elephant
   m_EditorClassIdentifier: Assembly-CSharp::IngredientDataSO
   _ingredientName: Elephant
-  _ingredientSprite: {fileID: 832877967638892730, guid: 426922c5c8bdc224684630ee8cfcc209, type: 3}
+  _ingredientSprite: {fileID: 21300000, guid: 426922c5c8bdc224684630ee8cfcc209, type: 3}
