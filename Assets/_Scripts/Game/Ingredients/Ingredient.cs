@@ -1,6 +1,4 @@
-using TMPro;
 using UnityEngine;
-using UnityEngine.UI;
 using DG.Tweening;
 using UnityEngine.EventSystems;
 
@@ -11,18 +9,21 @@ public class Ingredient : MonoBehaviour, IPointerClickHandler, IDragHandler
     [SerializeField] private IngredientDataSO _ingredientData;
     [SerializeField] private float _pulseScale = 1.2f;
     [SerializeField] private float _pulseDuration = 0.3f;
+
+    [Header("TutorialItem")]
     [SerializeField] private bool _isShouldPulseFromStart = false;
+    [SerializeField] private bool _isTutorialItem = false;
 
     private IngredientVisual ingredientImage;
-    private Sequence _pulseSequence; 
+    private Sequence _pulseSequence;
 
     private void Awake()
     {
-        ingredientImage = GetComponentInChildren<IngredientVisual>(); 
+        ingredientImage = GetComponentInChildren<IngredientVisual>();
     }
     private void Start()
     {
-        if(_isShouldPulseFromStart && _ingredientData != null)
+        if (_isShouldPulseFromStart && _ingredientData != null)
         {
             StartPulsing();
             InitIngredient(IngredientData);
@@ -42,7 +43,7 @@ public class Ingredient : MonoBehaviour, IPointerClickHandler, IDragHandler
     {
         Invoke(nameof(DestroySelf), Time);
     }
- 
+
     public void StartPulsing()
     {
         StopPulsing();
@@ -75,20 +76,22 @@ public class Ingredient : MonoBehaviour, IPointerClickHandler, IDragHandler
 
     public void OnPointerClick(PointerEventData eventData)
     {
-        if(gameObject.GetComponentInParent<LeftIngredientPanel>())
+        if (gameObject.GetComponentInParent<LeftIngredientPanel>())
         {
             AudioManager.Instance.Play("LeftPanelItem");
         }
-        else if(gameObject.GetComponentInParent<RightIngredientPanel>())
+        else if (gameObject.GetComponentInParent<RightIngredientPanel>())
         {
             AudioManager.Instance.Play("RightPanelItem");
         }
 
-        StopPulsing();
+        if (!_isTutorialItem)
+            StopPulsing();
     }
 
     public void OnDrag(PointerEventData eventData)
     {
-        StopPulsing();
+        if (!_isTutorialItem)
+            StopPulsing();
     }
 }

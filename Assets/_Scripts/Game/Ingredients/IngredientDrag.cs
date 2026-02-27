@@ -7,6 +7,8 @@ public class IngredientDrag : MonoBehaviour,
 {
     public bool IsInMixingZone => _isAtMixingZone;
 
+    [SerializeField] private bool _isCanBeDragged = true;
+
     private Transform _mixingZoneTransform;
 
     private bool _isAtMixingZone = false;
@@ -59,8 +61,9 @@ public class IngredientDrag : MonoBehaviour,
 
     public void OnBeginDrag(PointerEventData eventData)
     {
+        if (!_isCanBeDragged) return;
         if (_isDragging) return;
-        if (_dragObject != null) return;
+        //if (_dragObject != null) return;
 
         GameManager.Instance.IsSomethingGoingOn = true;
         _isDragging = true;
@@ -74,6 +77,7 @@ public class IngredientDrag : MonoBehaviour,
             {
                 _dragObject.GetComponentInChildren<IngredientCellVisual>().SetVisualActive(false);
             }
+
 
             if (_dragObject.TryGetComponent(out IngredientDrag ingredientDrag))
             {

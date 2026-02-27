@@ -7349,6 +7349,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1659430034}
     m_Modifications:
+    - target: {fileID: 1670028361686841477, guid: ded60eee924152846831b693e9affa17, type: 3}
+      propertyPath: _isCanBeDragged
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2025988598745078623, guid: ded60eee924152846831b693e9affa17, type: 3}
       propertyPath: m_Name
       value: Ingredient (14)
@@ -7365,6 +7369,10 @@ PrefabInstance:
       propertyPath: _ingredientData
       value: 
       objectReference: {fileID: 11400000, guid: ae5787b66a911734481d3bd999b38ea7, type: 2}
+    - target: {fileID: 6482783018425476136, guid: ded60eee924152846831b693e9affa17, type: 3}
+      propertyPath: _isTutorialItem
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6482783018425476136, guid: ded60eee924152846831b693e9affa17, type: 3}
       propertyPath: _isShouldPulseFromStart
       value: 1
@@ -38934,7 +38942,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1218998388
 RectTransform:
   m_ObjectHideFlags: 0
@@ -60042,6 +60050,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1659430034}
     m_Modifications:
+    - target: {fileID: 1670028361686841477, guid: ded60eee924152846831b693e9affa17, type: 3}
+      propertyPath: _isCanBeDragged
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2025988598745078623, guid: ded60eee924152846831b693e9affa17, type: 3}
       propertyPath: m_Name
       value: Ingredient (148)
@@ -60058,6 +60070,10 @@ PrefabInstance:
       propertyPath: _ingredientData
       value: 
       objectReference: {fileID: 11400000, guid: 6573c93f05e13cb4ca3bdf3cc6a322ea, type: 2}
+    - target: {fileID: 6482783018425476136, guid: ded60eee924152846831b693e9affa17, type: 3}
+      propertyPath: _isTutorialItem
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6482783018425476136, guid: ded60eee924152846831b693e9affa17, type: 3}
       propertyPath: _isShouldPulseFromStart
       value: 1
